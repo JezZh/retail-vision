@@ -1,13 +1,5 @@
 # Retail Vision
 
-Grocery
-
-![Grocery store orbit](docs/grocery-orbit.jpg)
-
-Electronics
-
-![Electronics shop orbit](docs/electronics-orbit.jpg)
-
 ## Run
 
 ```bash
