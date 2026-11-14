@@ -1,0 +1,390 @@
+{
+  "scenario": "baseline",
+  "dataset_validator_is_not_model_validation": true,
+  "baseline_is_in_the_training_split": true,
+  "held_out_from_fitting": false,
+  "same_cast_and_store_as_training": true,
+  "future_combined_final_test": false,
+  "prediction_file": "model_artifacts/track_k_v2_001/predictions/baseline.jsonl",
+  "forbidden_ground_truth_keys_in_predictions": [],
+  "predictions_include_copied_ground_truth": false,
+  "missing_prediction_frames": 0,
+  "operating_score_threshold": 0.5,
+  "person_detection": {
+    "by_camera": {
+      "CCTV_Checkout_Shelves": {
+        "shopper": {
+          "positives": 15405,
+          "precision": 0.801884271014299,
+          "recall": 0.7790327815644271,
+          "f1": 0.7902933719666787,
+          "tp": 12001,
+          "fp": 2965,
+          "fn": 3404,
+          "ap50": 0.8128387820478329,
+          "ap50_95": 0.45493446621867006
+        },
+        "staff": {
+          "positives": 5400,
+          "precision": 0.9348708487084871,
+          "recall": 0.9383333333333334,
+          "f1": 0.9365988909426987,
+          "tp": 5067,
+          "fp": 353,
+          "fn": 333,
+          "ap50": 0.9860730291894081,
+          "ap50_95": 0.6144303350212625
+        },
+        "map50": 0.8994559056186204,
+        "map50_95": 0.5346824006199663
+      },
+      "CCTV_Entrance_Aisle": {
+        "shopper": {
+          "positives": 13458,
+          "precision": 0.8244357835584156,
+          "recall": 0.6758805171645118,
+          "f1": 0.7428034788289575,
+          "tp": 9096,
+          "fp": 1937,
+          "fn": 4362,
+          "ap50": 0.7559728078782101,
+          "ap50_95": 0.40868838906844757
+        },
+        "staff": {
+          "positives": 0,
+          "precision": null,
+          "recall": null,
+          "f1": null,
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "ap50": null,
+          "ap50_95": null
+        },
+        "map50": 0.7559728078782101,
+        "map50_95": 0.40868838906844757
+      },
+      "CCTV_Entrance_Aisle_End": {
+        "shopper": {
+          "positives": 4508,
+          "precision": 0.9536266349583828,
+          "recall": 0.8895297249334516,
+          "f1": 0.920463674968438,
+          "tp": 4010,
+          "fp": 195,
+          "fn": 498,
+          "ap50": 0.9398146882577431,
+          "ap50_95": 0.6921305688920165
+        },
+        "staff": {
+          "positives": 0,
+          "precision": null,
+          "recall": null,
+          "f1": null,
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "ap50": null,
+          "ap50_95": null
+        },
+        "map50": 0.9398146882577431,
+        "map50_95": 0.6921305688920165
+      },
+      "CCTV_Back_Aisle": {
+        "shopper": {
+          "positives": 6114,
+          "precision": 0.5979833926453143,
+          "recall": 0.8245011449133137,
+          "f1": 0.6932068206820681,
+          "tp": 5041,
+          "fp": 3389,
+          "fn": 1073,
+          "ap50": 0.8157310837667648,
+          "ap50_95": 0.3608555196264188
+        },
+        "staff": {
+          "positives": 0,
+          "precision": null,
+          "recall": null,
+          "f1": null,
+          "tp": 0,
+          "fp": 0,
+          "fn": 0,
+          "ap50": null,
+          "ap50_95": null
+        },
+        "map50": 0.8157310837667648,
+        "map50_95": 0.3608555196264188
+      },
+      "CCTV_Back_Aisle_Left": {
+        "shopper": {
+          "positives": 13537,
+          "precision": 0.7702491103202846,
+          "recall": 0.39971928787766864,
+          "f1": 0.5263106701682716,
+          "tp": 5411,
+          "fp": 1614,
+          "fn": 8126,
+          "ap50": 0.6009286576077866,
+          "ap50_95": 0.18942326518289684
+        },
+        "staff": {
+          "positives": 2700,
+          "precision": 0.9097421203438395,
+          "recall": 0.9407407407407408,
+          "f1": 0.9249817916970139,
+          "tp": 2540,
+          "fp": 252,
+          "fn": 160,
+          "ap50": 0.9406450441907233,
+          "ap50_95": 0.5701238090821852
+        },
+        "map50": 0.7707868508992549,
+        "map50_95": 0.37977353713254103
+      }
+    },
+    "pooled": {
+      "shopper": {
+        "positives": 53022,
+        "precision": 0.7787949801791542,
+        "recall": 0.6706461468824262,
+        "f1": 0.7206858463128667,
+        "tp": 35559,
+        "fp": 10100,
+        "fn": 17463,
+        "ap50": 0.7554722250286011,
+        "ap50_95": 0.3882938919115163
+      },
+      "staff": {
+        "positives": 8100,
+        "precision": 0.9263273258645884,
+        "recall": 0.9391358024691357,
+        "f1": 0.9326875919568415,
+        "tp": 7607,
+        "fp": 605,
+        "fn": 493,
+        "ap50": 0.9693092924029321,
+        "ap50_95": 0.5935013674571082
+      },
+      "map50": 0.8623907587157666,
+      "map50_95": 0.4908976296843123
+    },
+    "matching": "Greedy IoU. Visible and partial boxes are positives. Occluded or unavailable boxes are ignored. Tiny boxes are excluded. Staff are not shoppers."
+  },
+  "entries": {
+    "predicted": 8,
+    "visual_ground_truth": 8,
+    "count_error": 0,
+    "available": true,
+    "door_available": true,
+    "world_events_not_seen_by_entrance_camera": [],
+    "unavailable_events_not_scored": []
+  },
+  "exits": {
+    "predicted": 0,
+    "visual_ground_truth": 0,
+    "count_error": 0,
+    "available": true,
+    "world_exits_not_seen_by_entrance_camera": [
+      {
+        "character_id": "Shopper_01",
+        "frame_index": 1433,
+        "status": "observed",
+        "visual_status": "unavailable",
+        "visual_reason": "No entrance-camera box within 90 frames of the world crossing."
+      }
+    ],
+    "unavailable_events_not_scored": [
+      {
+        "character_id": "Shopper_02",
+        "frame_index": null,
+        "status": "unavailable",
+        "visual_status": null,
+        "visual_reason": "Did not cross the doorway outward during this take."
+      },
+      {
+        "character_id": "Shopper_03",
+        "frame_index": null,
+        "status": "unavailable",
+        "visual_status": null,
+        "visual_reason": "Did not cross the doorway outward during this take."
+      },
+      {
+        "character_id": "Shopper_04",
+        "frame_index": null,
+        "status": "unavailable",
+        "visual_status": null,
+        "visual_reason": "Did not cross the doorway outward during this take."
+      },
+      {
+        "character_id": "Shopper_05",
+        "frame_index": null,
+        "status": "unavailable",
+        "visual_status": null,
+        "visual_reason": "Did not cross the doorway outward during this take."
+      },
+      {
+        "character_id": "Shopper_06",
+        "frame_index": null,
+        "status": "unavailable",
+        "visual_status": null,
+        "visual_reason": "Did not cross the doorway outward during this take."
+      },
+      {
+        "character_id": "Shopper_07",
+        "frame_index": null,
+        "status": "unavailable",
+        "visual_status": null,
+        "visual_reason": "Did not cross the doorway outward during this take."
+      },
+      {
+        "character_id": "Shopper_08",
+        "frame_index": null,
+        "status": "unavailable",
+        "visual_status": null,
+        "visual_reason": "Did not cross the doorway outward during this take."
+      }
+    ],
+    "note": "A world exit with visual_status other than observed is flagged and is not counted as a model miss or as zero."
+  },
+  "queue": {
+    "available": true,
+    "frames_compared": 2700,
+    "frames_skipped_unknown_gt": 0,
+    "mae": 0.44481481481481483,
+    "mean_signed_error": 0.08407407407407408,
+    "alert_precision": 1.0,
+    "alert_recall": 0.7304469273743017,
+    "alert_f1": 0.8442292171105731,
+    "alert_tp_frames": 1046,
+    "alert_fp_frames": 0,
+    "alert_fn_frames": 386,
+    "first_gt_count_at_least_4_frame": 1254,
+    "first_predicted_alert_frame": 1325,
+    "alert_timing_error_s": 2.367,
+    "alert_timing_note": "Predicted alert is the 15-frame latch on the summed polygon count. Timing is that frame minus the first known ground-truth frame whose visible queue count is at least 4."
+  },
+  "named_shopper_wait": {
+    "available": false,
+    "reason": "Track ids are not simulator character ids, so a named service wait cannot be checked."
+  },
+  "shelf": {
+    "precision": null,
+    "recall": null,
+    "f1": null,
+    "tp": 0,
+    "fp": 0,
+    "fn": 0,
+    "occlusion_false_alarms": 0,
+    "occlusion_candidates": 2700,
+    "occlusion_false_alarm_rate": 0.0,
+    "by_category": {
+      "Milk": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 0
+      },
+      "Packaged Snacks": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 0
+      }
+    },
+    "missing_count_mae": {
+      "Milk": 0.0,
+      "Packaged Snacks": 0.0
+    },
+    "missing_count_frames": {
+      "Milk": 2700,
+      "Packaged Snacks": 2700
+    },
+    "refill_recovery": {
+      "available": false,
+      "reason": "This scenario has no facing item that changes from inactive back to active. Refill recovery is not scored as zero."
+    }
+  },
+  "staff_02": {
+    "available": true,
+    "predicted_dispatched": false,
+    "first_predicted_frame": null,
+    "ground_truth_dispatch_frame": null,
+    "ground_truth_active_frame": null,
+    "timing_error_s_vs_dispatch_event": null,
+    "false_dispatch": false,
+    "note": "Dispatch is a non-cashier checkout track leaving the home frozen from the training split. It is not a second staff appearance and it is not read from the character name."
+  },
+  "heatmap": {
+    "available": false,
+    "reason": "Image-to-floor identity across cameras is not reliable enough to draw a heatmap."
+  },
+  "live_occupancy": {
+    "available": false,
+    "reason": "The same person is visible on more than one camera, and tracks are not joined."
+  },
+  "runtime": {
+    "source_folder": "datasets/track_k_dataset_v2/baseline",
+    "frames": 13500,
+    "gpu": "NVIDIA GeForce RTX 3090",
+    "gpu_peak_allocated_mb": 292.3,
+    "model_seconds": 181.826,
+    "model_fps": 74.247,
+    "end_to_end_seconds": 242.284,
+    "end_to_end_fps": 55.72,
+    "latency_ms_mean": 17.941,
+    "latency_ms_p50": 17.027,
+    "latency_ms_p95": 24.813,
+    "person_score_threshold": 0.5,
+    "shelf_min_probability": 0.0,
+    "score_floor_written": 0.05,
+    "queue_usability": {
+      "counter_01": true,
+      "counter_02": true,
+      "overlap": true,
+      "dwell_frames": 15
+    },
+    "rule_fix": {
+      "door_max_distance_px": 130.0,
+      "door_outside_frames": 2,
+      "door_entry_gap_frames": 2,
+      "clipped_bottom_px": 710.0,
+      "clipped_max_height_px": 100.0,
+      "clipped_grow_px": 80.0,
+      "clipped_window_frames": 60,
+      "queue_dwell_frames": 15,
+      "staff_dispatch_distance_px": 113.415,
+      "staff_dispatch_frames": 4,
+      "weights_unchanged": true
+    },
+    "shelf_refit": {
+      "arch": "per_slot_median_l1",
+      "margin": 6.0,
+      "weights": "weights/shelf_selected.pth",
+      "person_weights_unchanged": true,
+      "queue_and_door_unchanged": true
+    }
+  },
+  "examples": [
+    {
+      "kind": "queue_frame",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 0,
+      "gt_count": 0,
+      "pred_count": 0
+    },
+    {
+      "kind": "detection_match",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 0
+    },
+    {
+      "kind": "detection_false",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 0
+    },
+    {
+      "kind": "detection_miss",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 6
+    }
+  ]
+}

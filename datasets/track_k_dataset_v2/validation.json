@@ -1,0 +1,765 @@
+{
+  "passed": true,
+  "errors": [],
+  "unobserved": [
+    {
+      "scenario": "baseline",
+      "event": "EXIT",
+      "character_id": "Shopper_01",
+      "reason": "No entrance-camera box within 90 frames of the world crossing."
+    },
+    {
+      "scenario": "baseline",
+      "event": "EXIT",
+      "character_id": "Shopper_02",
+      "item_id": null,
+      "reason": "Did not cross the doorway outward during this take."
+    },
+    {
+      "scenario": "baseline",
+      "event": "QUEUE_LEAVE",
+      "character_id": "Shopper_02",
+      "item_id": null,
+      "reason": "Still in the lane when the take ended."
+    },
+    {
+      "scenario": "baseline",
+      "event": "SERVICE_START",
+      "character_id": "Shopper_02",
+      "item_id": null,
+      "reason": "Still waiting when the take ended."
+    },
+    {
+      "scenario": "baseline",
+      "event": "EXIT",
+      "character_id": "Shopper_03",
+      "item_id": null,
+      "reason": "Did not cross the doorway outward during this take."
+    },
+    {
+      "scenario": "baseline",
+      "event": "QUEUE_LEAVE",
+      "character_id": "Shopper_03",
+      "item_id": null,
+      "reason": "Still in the lane when the take ended."
+    },
+    {
+      "scenario": "baseline",
+      "event": "SERVICE_START",
+      "character_id": "Shopper_03",
+      "item_id": null,
+      "reason": "Still waiting when the take ended."
+    },
+    {
+      "scenario": "baseline",
+      "event": "EXIT",
+      "character_id": "Shopper_04",
+      "item_id": null,
+      "reason": "Did not cross the doorway outward during this take."
+    },
+    {
+      "scenario": "baseline",
+      "event": "QUEUE_LEAVE",
+      "character_id": "Shopper_04",
+      "item_id": null,
+      "reason": "Still in the lane when the take ended."
+    },
+    {
+      "scenario": "baseline",
+      "event": "SERVICE_START",
+      "character_id": "Shopper_04",
+      "item_id": null,
+      "reason": "Still waiting when the take ended."
+    },
+    {
+      "scenario": "baseline",
+      "event": "EXIT",
+      "character_id": "Shopper_05",
+      "item_id": null,
+      "reason": "Did not cross the doorway outward during this take."
+    },
+    {
+      "scenario": "baseline",
+      "event": "QUEUE_LEAVE",
+      "character_id": "Shopper_05",
+      "item_id": null,
+      "reason": "Still in the lane when the take ended."
+    },
+    {
+      "scenario": "baseline",
+      "event": "SERVICE_START",
+      "character_id": "Shopper_05",
+      "item_id": null,
+      "reason": "Still waiting when the take ended."
+    },
+    {
+      "scenario": "baseline",
+      "event": "EXIT",
+      "character_id": "Shopper_06",
+      "item_id": null,
+      "reason": "Did not cross the doorway outward during this take."
+    },
+    {
+      "scenario": "baseline",
+      "event": "QUEUE_JOIN",
+      "character_id": "Shopper_06",
+      "item_id": null,
+      "reason": "Did not approach a checkout lane during this take."
+    },
+    {
+      "scenario": "baseline",
+      "event": "EXIT",
+      "character_id": "Shopper_07",
+      "item_id": null,
+      "reason": "Did not cross the doorway outward during this take."
+    },
+    {
+      "scenario": "baseline",
+      "event": "QUEUE_JOIN",
+      "character_id": "Shopper_07",
+      "item_id": null,
+      "reason": "Did not approach a checkout lane during this take."
+    },
+    {
+      "scenario": "baseline",
+      "event": "EXIT",
+      "character_id": "Shopper_08",
+      "item_id": null,
+      "reason": "Did not cross the doorway outward during this take."
+    },
+    {
+      "scenario": "baseline",
+      "event": "QUEUE_JOIN",
+      "character_id": "Shopper_08",
+      "item_id": null,
+      "reason": "Did not approach a checkout lane during this take."
+    },
+    {
+      "scenario": "dynamic_staff",
+      "event": "EXIT",
+      "character_id": "Shopper_01",
+      "reason": "No entrance-camera box within 90 frames of the world crossing."
+    },
+    {
+      "scenario": "dynamic_staff",
+      "event": "SERVICE_START",
+      "character_id": "Shopper_04",
+      "item_id": null,
+      "reason": "Left the lane before reaching the service radius."
+    },
+    {
+      "scenario": "dynamic_staff",
+      "event": "SERVICE_START",
+      "character_id": "Shopper_05",
+      "item_id": null,
+      "reason": "Left the lane before reaching the service radius."
+    },
+    {
+      "scenario": "dynamic_staff",
+      "event": "SERVICE_START",
+      "character_id": "Shopper_02",
+      "item_id": null,
+      "reason": "Left the lane before reaching the service radius."
+    },
+    {
+      "scenario": "dynamic_staff",
+      "event": "EXIT",
+      "character_id": "Shopper_02",
+      "reason": "No entrance-camera box within 90 frames of the world crossing."
+    },
+    {
+      "scenario": "dynamic_staff",
+      "event": "EXIT",
+      "character_id": "Shopper_04",
+      "reason": "No entrance-camera box within 90 frames of the world crossing."
+    },
+    {
+      "scenario": "dynamic_staff",
+      "event": "SERVICE_START",
+      "character_id": "Shopper_03",
+      "item_id": null,
+      "reason": "Left the lane before reaching the service radius."
+    },
+    {
+      "scenario": "dynamic_staff",
+      "event": "EXIT",
+      "character_id": "Shopper_03",
+      "reason": "No entrance-camera box within 90 frames of the world crossing."
+    },
+    {
+      "scenario": "dynamic_staff",
+      "event": "SERVICE_START",
+      "character_id": "Shopper_05",
+      "item_id": null,
+      "reason": "Left the lane before reaching the service radius."
+    },
+    {
+      "scenario": "dynamic_staff",
+      "event": "EXIT",
+      "character_id": "Shopper_05",
+      "reason": "No entrance-camera box within 90 frames of the world crossing."
+    },
+    {
+      "scenario": "dynamic_staff",
+      "event": "EXIT",
+      "character_id": "Shopper_06",
+      "item_id": null,
+      "reason": "Did not cross the doorway outward during this take."
+    },
+    {
+      "scenario": "dynamic_staff",
+      "event": "QUEUE_JOIN",
+      "character_id": "Shopper_06",
+      "item_id": null,
+      "reason": "Did not approach a checkout lane during this take."
+    },
+    {
+      "scenario": "dynamic_staff",
+      "event": "EXIT",
+      "character_id": "Shopper_07",
+      "item_id": null,
+      "reason": "Did not cross the doorway outward during this take."
+    },
+    {
+      "scenario": "dynamic_staff",
+      "event": "QUEUE_JOIN",
+      "character_id": "Shopper_07",
+      "item_id": null,
+      "reason": "Did not approach a checkout lane during this take."
+    },
+    {
+      "scenario": "dynamic_staff",
+      "event": "EXIT",
+      "character_id": "Shopper_08",
+      "item_id": null,
+      "reason": "Did not cross the doorway outward during this take."
+    },
+    {
+      "scenario": "dynamic_staff",
+      "event": "QUEUE_JOIN",
+      "character_id": "Shopper_08",
+      "item_id": null,
+      "reason": "Did not approach a checkout lane during this take."
+    },
+    {
+      "scenario": "train_occlusion",
+      "event": "EXIT",
+      "character_id": "Shopper_01",
+      "item_id": null,
+      "reason": "Did not cross the doorway outward during this take."
+    },
+    {
+      "scenario": "train_occlusion",
+      "event": "QUEUE_JOIN",
+      "character_id": "Shopper_01",
+      "item_id": null,
+      "reason": "Did not approach a checkout lane during this take."
+    },
+    {
+      "scenario": "train_occlusion",
+      "event": "EXIT",
+      "character_id": "Shopper_02",
+      "item_id": null,
+      "reason": "Did not cross the doorway outward during this take."
+    },
+    {
+      "scenario": "train_occlusion",
+      "event": "QUEUE_JOIN",
+      "character_id": "Shopper_02",
+      "item_id": null,
+      "reason": "Did not approach a checkout lane during this take."
+    },
+    {
+      "scenario": "train_occlusion",
+      "event": "EXIT",
+      "character_id": "Shopper_03",
+      "item_id": null,
+      "reason": "Did not cross the doorway outward during this take."
+    },
+    {
+      "scenario": "train_occlusion",
+      "event": "QUEUE_JOIN",
+      "character_id": "Shopper_03",
+      "item_id": null,
+      "reason": "Did not approach a checkout lane during this take."
+    },
+    {
+      "scenario": "train_occlusion",
+      "event": "EXIT",
+      "character_id": "Shopper_04",
+      "item_id": null,
+      "reason": "Did not cross the doorway outward during this take."
+    },
+    {
+      "scenario": "train_occlusion",
+      "event": "QUEUE_JOIN",
+      "character_id": "Shopper_04",
+      "item_id": null,
+      "reason": "Did not approach a checkout lane during this take."
+    },
+    {
+      "scenario": "train_occlusion",
+      "event": "EXIT",
+      "character_id": "Shopper_05",
+      "item_id": null,
+      "reason": "Did not cross the doorway outward during this take."
+    },
+    {
+      "scenario": "train_occlusion",
+      "event": "QUEUE_JOIN",
+      "character_id": "Shopper_05",
+      "item_id": null,
+      "reason": "Did not approach a checkout lane during this take."
+    },
+    {
+      "scenario": "train_occlusion",
+      "event": "EXIT",
+      "character_id": "Shopper_06",
+      "item_id": null,
+      "reason": "Did not cross the doorway outward during this take."
+    },
+    {
+      "scenario": "train_occlusion",
+      "event": "QUEUE_JOIN",
+      "character_id": "Shopper_06",
+      "item_id": null,
+      "reason": "Did not approach a checkout lane during this take."
+    },
+    {
+      "scenario": "train_queue",
+      "event": "ENTRY",
+      "character_id": "Shopper_02",
+      "reason": "No entrance-camera box within 90 frames of the world crossing."
+    },
+    {
+      "scenario": "train_queue",
+      "event": "EXIT",
+      "character_id": "Shopper_01",
+      "item_id": null,
+      "reason": "Did not cross the doorway outward during this take."
+    },
+    {
+      "scenario": "train_queue",
+      "event": "QUEUE_LEAVE",
+      "character_id": "Shopper_01",
+      "item_id": null,
+      "reason": "Still in the lane when the take ended."
+    },
+    {
+      "scenario": "train_queue",
+      "event": "EXIT",
+      "character_id": "Shopper_02",
+      "item_id": null,
+      "reason": "Did not cross the doorway outward during this take."
+    },
+    {
+      "scenario": "train_queue",
+      "event": "QUEUE_LEAVE",
+      "character_id": "Shopper_02",
+      "item_id": null,
+      "reason": "Still in the lane when the take ended."
+    },
+    {
+      "scenario": "train_queue",
+      "event": "SERVICE_START",
+      "character_id": "Shopper_02",
+      "item_id": null,
+      "reason": "Still waiting when the take ended."
+    },
+    {
+      "scenario": "train_queue",
+      "event": "EXIT",
+      "character_id": "Shopper_03",
+      "item_id": null,
+      "reason": "Did not cross the doorway outward during this take."
+    },
+    {
+      "scenario": "train_queue",
+      "event": "QUEUE_LEAVE",
+      "character_id": "Shopper_03",
+      "item_id": null,
+      "reason": "Still in the lane when the take ended."
+    },
+    {
+      "scenario": "train_queue",
+      "event": "SERVICE_START",
+      "character_id": "Shopper_03",
+      "item_id": null,
+      "reason": "Still waiting when the take ended."
+    },
+    {
+      "scenario": "train_queue",
+      "event": "EXIT",
+      "character_id": "Shopper_04",
+      "item_id": null,
+      "reason": "Did not cross the doorway outward during this take."
+    },
+    {
+      "scenario": "train_queue",
+      "event": "QUEUE_LEAVE",
+      "character_id": "Shopper_04",
+      "item_id": null,
+      "reason": "Still in the lane when the take ended."
+    },
+    {
+      "scenario": "train_queue",
+      "event": "SERVICE_START",
+      "character_id": "Shopper_04",
+      "item_id": null,
+      "reason": "Still waiting when the take ended."
+    }
+  ],
+  "videos": [
+    {
+      "scenario": "baseline",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "nb_frames": 2700,
+      "path": "datasets/track_k_dataset_v2/baseline/CCTV_Checkout_Shelves.mp4"
+    },
+    {
+      "scenario": "baseline",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "nb_frames": 2700,
+      "path": "datasets/track_k_dataset_v2/baseline/CCTV_Entrance_Aisle.mp4"
+    },
+    {
+      "scenario": "baseline",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "nb_frames": 2700,
+      "path": "datasets/track_k_dataset_v2/baseline/CCTV_Entrance_Aisle_End.mp4"
+    },
+    {
+      "scenario": "baseline",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "nb_frames": 2700,
+      "path": "datasets/track_k_dataset_v2/baseline/CCTV_Back_Aisle.mp4"
+    },
+    {
+      "scenario": "baseline",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "nb_frames": 2700,
+      "path": "datasets/track_k_dataset_v2/baseline/CCTV_Back_Aisle_Left.mp4"
+    },
+    {
+      "scenario": "dynamic_staff",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "nb_frames": 2700,
+      "path": "datasets/track_k_dataset_v2/dynamic_staff/CCTV_Checkout_Shelves.mp4"
+    },
+    {
+      "scenario": "dynamic_staff",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "nb_frames": 2700,
+      "path": "datasets/track_k_dataset_v2/dynamic_staff/CCTV_Entrance_Aisle.mp4"
+    },
+    {
+      "scenario": "dynamic_staff",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "nb_frames": 2700,
+      "path": "datasets/track_k_dataset_v2/dynamic_staff/CCTV_Entrance_Aisle_End.mp4"
+    },
+    {
+      "scenario": "dynamic_staff",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "nb_frames": 2700,
+      "path": "datasets/track_k_dataset_v2/dynamic_staff/CCTV_Back_Aisle.mp4"
+    },
+    {
+      "scenario": "dynamic_staff",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "nb_frames": 2700,
+      "path": "datasets/track_k_dataset_v2/dynamic_staff/CCTV_Back_Aisle_Left.mp4"
+    },
+    {
+      "scenario": "train_occlusion",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "nb_frames": 720,
+      "path": "datasets/track_k_dataset_v2/train_occlusion/CCTV_Checkout_Shelves.mp4"
+    },
+    {
+      "scenario": "train_occlusion",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "nb_frames": 720,
+      "path": "datasets/track_k_dataset_v2/train_occlusion/CCTV_Entrance_Aisle.mp4"
+    },
+    {
+      "scenario": "train_occlusion",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "nb_frames": 720,
+      "path": "datasets/track_k_dataset_v2/train_occlusion/CCTV_Entrance_Aisle_End.mp4"
+    },
+    {
+      "scenario": "train_occlusion",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "nb_frames": 720,
+      "path": "datasets/track_k_dataset_v2/train_occlusion/CCTV_Back_Aisle.mp4"
+    },
+    {
+      "scenario": "train_occlusion",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "nb_frames": 720,
+      "path": "datasets/track_k_dataset_v2/train_occlusion/CCTV_Back_Aisle_Left.mp4"
+    },
+    {
+      "scenario": "train_gap",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "nb_frames": 150,
+      "path": "datasets/track_k_dataset_v2/train_gap/CCTV_Checkout_Shelves.mp4"
+    },
+    {
+      "scenario": "train_gap",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "nb_frames": 150,
+      "path": "datasets/track_k_dataset_v2/train_gap/CCTV_Entrance_Aisle.mp4"
+    },
+    {
+      "scenario": "train_gap",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "nb_frames": 150,
+      "path": "datasets/track_k_dataset_v2/train_gap/CCTV_Entrance_Aisle_End.mp4"
+    },
+    {
+      "scenario": "train_gap",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "nb_frames": 150,
+      "path": "datasets/track_k_dataset_v2/train_gap/CCTV_Back_Aisle.mp4"
+    },
+    {
+      "scenario": "train_gap",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "nb_frames": 150,
+      "path": "datasets/track_k_dataset_v2/train_gap/CCTV_Back_Aisle_Left.mp4"
+    },
+    {
+      "scenario": "train_refilled",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "nb_frames": 120,
+      "path": "datasets/track_k_dataset_v2/train_refilled/CCTV_Checkout_Shelves.mp4"
+    },
+    {
+      "scenario": "train_refilled",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "nb_frames": 120,
+      "path": "datasets/track_k_dataset_v2/train_refilled/CCTV_Entrance_Aisle.mp4"
+    },
+    {
+      "scenario": "train_refilled",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "nb_frames": 120,
+      "path": "datasets/track_k_dataset_v2/train_refilled/CCTV_Entrance_Aisle_End.mp4"
+    },
+    {
+      "scenario": "train_refilled",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "nb_frames": 120,
+      "path": "datasets/track_k_dataset_v2/train_refilled/CCTV_Back_Aisle.mp4"
+    },
+    {
+      "scenario": "train_refilled",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "nb_frames": 120,
+      "path": "datasets/track_k_dataset_v2/train_refilled/CCTV_Back_Aisle_Left.mp4"
+    },
+    {
+      "scenario": "train_queue",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "nb_frames": 1080,
+      "path": "datasets/track_k_dataset_v2/train_queue/CCTV_Checkout_Shelves.mp4"
+    },
+    {
+      "scenario": "train_queue",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "nb_frames": 1080,
+      "path": "datasets/track_k_dataset_v2/train_queue/CCTV_Entrance_Aisle.mp4"
+    },
+    {
+      "scenario": "train_queue",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "nb_frames": 1080,
+      "path": "datasets/track_k_dataset_v2/train_queue/CCTV_Entrance_Aisle_End.mp4"
+    },
+    {
+      "scenario": "train_queue",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "nb_frames": 1080,
+      "path": "datasets/track_k_dataset_v2/train_queue/CCTV_Back_Aisle.mp4"
+    },
+    {
+      "scenario": "train_queue",
+      "codec": "h264",
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "nb_frames": 1080,
+      "path": "datasets/track_k_dataset_v2/train_queue/CCTV_Back_Aisle_Left.mp4"
+    }
+  ],
+  "annotations": [
+    {
+      "scenario": "baseline",
+      "frames_per_camera": 2700,
+      "lines": 13500,
+      "timestamps_match_frames": true
+    },
+    {
+      "scenario": "dynamic_staff",
+      "frames_per_camera": 2700,
+      "lines": 13500,
+      "timestamps_match_frames": true
+    },
+    {
+      "scenario": "train_occlusion",
+      "frames_per_camera": 720,
+      "lines": 3600,
+      "timestamps_match_frames": true
+    },
+    {
+      "scenario": "train_gap",
+      "frames_per_camera": 150,
+      "lines": 750,
+      "timestamps_match_frames": true
+    },
+    {
+      "scenario": "train_refilled",
+      "frames_per_camera": 120,
+      "lines": 600,
+      "timestamps_match_frames": true
+    },
+    {
+      "scenario": "train_queue",
+      "frames_per_camera": 1080,
+      "lines": 5400,
+      "timestamps_match_frames": true
+    }
+  ],
+  "event_counts": {
+    "baseline": {
+      "ENTRY": 8,
+      "QUEUE_JOIN": 5,
+      "SERVICE_START": 1,
+      "QUEUE_LEAVE": 1,
+      "EXIT": 1,
+      "EXIT_unavailable": 7,
+      "QUEUE_LEAVE_unavailable": 4,
+      "SERVICE_START_unavailable": 4,
+      "QUEUE_JOIN_unavailable": 3
+    },
+    "dynamic_staff": {
+      "ENTRY": 8,
+      "ITEM_REMOVED": 18,
+      "QUEUE_JOIN": 7,
+      "SERVICE_START": 2,
+      "QUEUE_LEAVE": 7,
+      "EXIT": 5,
+      "STAFF_02_DISPATCH": 1,
+      "SERVICE_START_unavailable": 5,
+      "STAFF_02_ACTIVE": 1,
+      "EXIT_unavailable": 3,
+      "QUEUE_JOIN_unavailable": 3
+    },
+    "train_occlusion": {
+      "ENTRY": 6,
+      "EXIT_unavailable": 6,
+      "QUEUE_JOIN_unavailable": 6
+    },
+    "train_gap": {
+      "ITEM_REMOVED": 18
+    },
+    "train_queue": {
+      "ENTRY": 4,
+      "QUEUE_JOIN": 4,
+      "SERVICE_START": 1,
+      "EXIT_unavailable": 4,
+      "QUEUE_LEAVE_unavailable": 4,
+      "SERVICE_START_unavailable": 3
+    }
+  },
+  "note": "Validation checks alignment and measured events. It does not train a model."
+}

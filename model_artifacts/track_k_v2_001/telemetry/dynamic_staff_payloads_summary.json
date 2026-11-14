@@ -1,0 +1,29 @@
+{
+  "posted": false,
+  "payload_file": "model_artifacts/track_k_v2_001/telemetry/dynamic_staff_payloads.jsonl",
+  "payloads_written": 598,
+  "predicted_entries": 8,
+  "predicted_exits": 0,
+  "omitted": [
+    "shoppers",
+    "staff_02 position",
+    "live_occupancy",
+    "headcount",
+    "heatmap",
+    "named customer waits"
+  ],
+  "scenario_map": {
+    "baseline": "single_cashier",
+    "dynamic_staff": "dynamic_staff"
+  },
+  "facing_capacity_vs_dashboard_seed": {
+    "Milk": {
+      "facing": 8,
+      "dashboard_seed": 40
+    },
+    "Packaged Snacks": {
+      "facing": 10,
+      "dashboard_seed": 48
+    }
+  }
+}

@@ -1,0 +1,513 @@
+{
+  "format": "track_k_dataset_v2",
+  "note": "Simulator ground truth aligned to the video frames. Replicator bounding_box_2d_tight supplies per-prim boxes. World crossings and queue times are measured from character positions. This file is not a trained model.",
+  "fps": 30,
+  "width": 1280,
+  "height": 720,
+  "metadata_path": "metadata.json",
+  "metadata_sha256": "9a03558f9aee8fcfcfd98e2415d86d749fe0c0821450c65c10ba6abe852d11fb",
+  "doorway": {
+    "prim_path": "/Root/SupermarketFramework/DoorComponent_0",
+    "plane": "y",
+    "y_cm": 0.0,
+    "opening_x_min_cm": 233.41,
+    "opening_x_max_cm": 546.59,
+    "opening_y_min_cm": -8.6,
+    "opening_y_max_cm": 20.41,
+    "opening_z_max_cm": 300.0,
+    "body_margin_cm": 40.0,
+    "direction_in": "y decreases through 0, from outside (positive Y) into the store",
+    "direction_out": "y increases through 0, from the store toward the parking side",
+    "note": "An entry or exit is one stable character crossing this plane. A teleport, a MakeVisible, or the first pixel of a person is not a crossing."
+  },
+  "checkout_regions": {
+    "service_radius_cm": 120.0,
+    "Counter_01": {
+      "lane": "Counter_01",
+      "service_point_cm": [
+        400.0,
+        -345.0,
+        1.8
+      ],
+      "register_prim": "/Root/BP_CashierArea_01/SM_CashRegister_Out_StaticMeshComponent0"
+    },
+    "Counter_02": {
+      "lane": "Counter_02",
+      "service_point_cm": [
+        400.0,
+        -590.0,
+        1.8
+      ],
+      "register_prim": "/Root/BP_CashierArea_01/SM_CashRegister_Out2_StaticMeshComponent0"
+    }
+  },
+  "shelf_facing_regions": {
+    "ShelfBox7": {
+      "shelf_id": "ShelfBox7",
+      "item_ids": [
+        "SM_MilkPacket01_19",
+        "SM_MilkPacket01_13",
+        "SM_MilkPacket01_7",
+        "SM_MilkPacket01_1",
+        "SM_MilkPacket02_79",
+        "SM_MilkPacket02_73",
+        "SM_MilkPacket02_67",
+        "SM_MilkPacket02_61"
+      ],
+      "item_type": [
+        "SM_MilkPacket01",
+        "SM_MilkPacket02"
+      ],
+      "category": "Milk",
+      "facing_camera": "CCTV_Entrance_Aisle",
+      "world_min_cm": [
+        570.29,
+        -264.64,
+        129.31
+      ],
+      "world_max_cm": [
+        620.42,
+        -257.75,
+        189.49
+      ],
+      "source": "intact_world_bounds_before_hide"
+    },
+    "ShelfBox6": {
+      "shelf_id": "ShelfBox6",
+      "item_ids": [
+        "SM_Packet2_3_Chips_1",
+        "SM_Packet2_3_Chips_6",
+        "SM_Packet2_3_Chips_11",
+        "SM_Packet2_3_Chips_16",
+        "SM_Packet2_3_Chips_21",
+        "SM_Packet2_3_Chips_26",
+        "SM_Packet2_3_Chips_31",
+        "SM_Packet2_3_Chips_36",
+        "SM_Packet2_3_Chips_41",
+        "SM_Packet2_3_Chips_46"
+      ],
+      "item_type": [
+        "SM_Packet2_3_Chips"
+      ],
+      "category": "Packaged Snacks",
+      "facing_camera": "CCTV_Back_Aisle_Left",
+      "world_min_cm": [
+        566.6,
+        -907.8,
+        94.01
+      ],
+      "world_max_cm": [
+        666.57,
+        -899.81,
+        189.55
+      ],
+      "source": "intact_world_bounds_before_hide"
+    }
+  },
+  "cameras": {
+    "CCTV_Checkout_Shelves": {
+      "prim_path": "/World/CCTV_Checkout_Shelves",
+      "focal_length_mm": 16.0,
+      "horizontal_aperture_mm": 36.0,
+      "vertical_aperture_mm": 20.25,
+      "eye_cm": [
+        140.0,
+        -230.04,
+        391.86
+      ],
+      "forward": [
+        0.6331,
+        -0.4692,
+        -0.6157
+      ],
+      "up": [
+        0.4946,
+        -0.3666,
+        0.788
+      ],
+      "depression_deg": 38.0,
+      "world_matrix_row_major": [
+        -0.595466,
+        -0.803381,
+        0.0,
+        0.0,
+        0.494611,
+        -0.366605,
+        0.788011,
+        0.0,
+        -0.633073,
+        0.469233,
+        0.615661,
+        0.0,
+        140.0,
+        -230.035286,
+        391.861816,
+        1.0
+      ]
+    },
+    "CCTV_Entrance_Aisle": {
+      "prim_path": "/World/CCTV_Entrance_Aisle",
+      "focal_length_mm": 14.0,
+      "horizontal_aperture_mm": 36.0,
+      "vertical_aperture_mm": 20.25,
+      "eye_cm": [
+        360.0,
+        -12.0,
+        312.0
+      ],
+      "forward": [
+        0.6145,
+        -0.4574,
+        -0.6428
+      ],
+      "up": [
+        0.5156,
+        -0.3838,
+        0.766
+      ],
+      "depression_deg": 40.0,
+      "world_matrix_row_major": [
+        -0.597149,
+        -0.80213,
+        0.0,
+        0.0,
+        0.5156,
+        -0.38384,
+        0.766044,
+        0.0,
+        -0.614468,
+        0.457443,
+        0.642788,
+        0.0,
+        360.000045,
+        -11.99676,
+        312.0,
+        1.0
+      ]
+    },
+    "CCTV_Entrance_Aisle_End": {
+      "prim_path": "/World/CCTV_Entrance_Aisle_End",
+      "focal_length_mm": 8.0,
+      "horizontal_aperture_mm": 20.954999923706055,
+      "vertical_aperture_mm": 15.290800094604492,
+      "eye_cm": [
+        1140.0,
+        -18.0,
+        312.0
+      ],
+      "forward": [
+        0.03,
+        -0.6683,
+        -0.7433
+      ],
+      "up": [
+        0.0333,
+        -0.7426,
+        0.6689
+      ],
+      "depression_deg": 48.014,
+      "world_matrix_row_major": [
+        -0.998993,
+        -0.044865,
+        0.0,
+        0.0,
+        0.033348,
+        -0.742559,
+        0.66895,
+        0.0,
+        -0.030012,
+        0.668276,
+        0.743307,
+        0.0,
+        1140.0,
+        -18.0,
+        312.0,
+        1.0
+      ]
+    },
+    "CCTV_Back_Aisle": {
+      "prim_path": "/World/CCTV_Back_Aisle",
+      "focal_length_mm": 16.0,
+      "horizontal_aperture_mm": 36.0,
+      "vertical_aperture_mm": 20.25,
+      "eye_cm": [
+        1120.0,
+        -1155.0,
+        275.0
+      ],
+      "forward": [
+        0.0,
+        0.809,
+        -0.5878
+      ],
+      "up": [
+        0.0,
+        0.5878,
+        0.809
+      ],
+      "depression_deg": 36.0,
+      "world_matrix_row_major": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.587785,
+        0.809017,
+        0.0,
+        0.0,
+        -0.809017,
+        0.587785,
+        0.0,
+        1120.0,
+        -1155.0,
+        275.0,
+        1.0
+      ]
+    },
+    "CCTV_Back_Aisle_Left": {
+      "prim_path": "/World/CCTV_Back_Aisle_Left",
+      "focal_length_mm": 12.0,
+      "horizontal_aperture_mm": 36.0,
+      "vertical_aperture_mm": 20.25,
+      "eye_cm": [
+        430.0,
+        -1040.0,
+        275.0
+      ],
+      "forward": [
+        0.223,
+        0.7777,
+        -0.5878
+      ],
+      "up": [
+        0.162,
+        0.565,
+        0.809
+      ],
+      "depression_deg": 36.0,
+      "world_matrix_row_major": [
+        0.961262,
+        -0.275637,
+        0.0,
+        0.0,
+        0.162016,
+        0.565015,
+        0.809017,
+        0.0,
+        -0.222995,
+        -0.777677,
+        0.587785,
+        0.0,
+        430.0,
+        -1040.0,
+        275.0,
+        1.0
+      ]
+    }
+  },
+  "projection_y_axis": "image_top_down",
+  "visual_window_frames": 90,
+  "scenarios": [
+    {
+      "name": "baseline",
+      "kind": "validation",
+      "annotations": "datasets/track_k_dataset_v2/baseline/annotations.jsonl",
+      "videos": [
+        {
+          "path": "datasets/track_k_dataset_v2/baseline/CCTV_Checkout_Shelves.mp4",
+          "camera_id": "CCTV_Checkout_Shelves",
+          "bytes": 11675779
+        },
+        {
+          "path": "datasets/track_k_dataset_v2/baseline/CCTV_Entrance_Aisle.mp4",
+          "camera_id": "CCTV_Entrance_Aisle",
+          "bytes": 11330133
+        },
+        {
+          "path": "datasets/track_k_dataset_v2/baseline/CCTV_Entrance_Aisle_End.mp4",
+          "camera_id": "CCTV_Entrance_Aisle_End",
+          "bytes": 7928477
+        },
+        {
+          "path": "datasets/track_k_dataset_v2/baseline/CCTV_Back_Aisle.mp4",
+          "camera_id": "CCTV_Back_Aisle",
+          "bytes": 6662253
+        },
+        {
+          "path": "datasets/track_k_dataset_v2/baseline/CCTV_Back_Aisle_Left.mp4",
+          "camera_id": "CCTV_Back_Aisle_Left",
+          "bytes": 7381482
+        }
+      ],
+      "projection": null
+    },
+    {
+      "name": "dynamic_staff",
+      "kind": "validation",
+      "annotations": "datasets/track_k_dataset_v2/dynamic_staff/annotations.jsonl",
+      "videos": [
+        {
+          "path": "datasets/track_k_dataset_v2/dynamic_staff/CCTV_Checkout_Shelves.mp4",
+          "camera_id": "CCTV_Checkout_Shelves",
+          "bytes": 12959337
+        },
+        {
+          "path": "datasets/track_k_dataset_v2/dynamic_staff/CCTV_Entrance_Aisle.mp4",
+          "camera_id": "CCTV_Entrance_Aisle",
+          "bytes": 12507461
+        },
+        {
+          "path": "datasets/track_k_dataset_v2/dynamic_staff/CCTV_Entrance_Aisle_End.mp4",
+          "camera_id": "CCTV_Entrance_Aisle_End",
+          "bytes": 7772225
+        },
+        {
+          "path": "datasets/track_k_dataset_v2/dynamic_staff/CCTV_Back_Aisle.mp4",
+          "camera_id": "CCTV_Back_Aisle",
+          "bytes": 6810580
+        },
+        {
+          "path": "datasets/track_k_dataset_v2/dynamic_staff/CCTV_Back_Aisle_Left.mp4",
+          "camera_id": "CCTV_Back_Aisle_Left",
+          "bytes": 7271260
+        }
+      ],
+      "projection": null
+    },
+    {
+      "name": "train_occlusion",
+      "kind": "train",
+      "annotations": "datasets/track_k_dataset_v2/train_occlusion/annotations.jsonl",
+      "videos": [
+        {
+          "path": "datasets/track_k_dataset_v2/train_occlusion/CCTV_Checkout_Shelves.mp4",
+          "camera_id": "CCTV_Checkout_Shelves",
+          "bytes": 4010138
+        },
+        {
+          "path": "datasets/track_k_dataset_v2/train_occlusion/CCTV_Entrance_Aisle.mp4",
+          "camera_id": "CCTV_Entrance_Aisle",
+          "bytes": 4267299
+        },
+        {
+          "path": "datasets/track_k_dataset_v2/train_occlusion/CCTV_Entrance_Aisle_End.mp4",
+          "camera_id": "CCTV_Entrance_Aisle_End",
+          "bytes": 1879306
+        },
+        {
+          "path": "datasets/track_k_dataset_v2/train_occlusion/CCTV_Back_Aisle.mp4",
+          "camera_id": "CCTV_Back_Aisle",
+          "bytes": 1841368
+        },
+        {
+          "path": "datasets/track_k_dataset_v2/train_occlusion/CCTV_Back_Aisle_Left.mp4",
+          "camera_id": "CCTV_Back_Aisle_Left",
+          "bytes": 3313987
+        }
+      ],
+      "projection": null
+    },
+    {
+      "name": "train_gap",
+      "kind": "train",
+      "annotations": "datasets/track_k_dataset_v2/train_gap/annotations.jsonl",
+      "videos": [
+        {
+          "path": "datasets/track_k_dataset_v2/train_gap/CCTV_Checkout_Shelves.mp4",
+          "camera_id": "CCTV_Checkout_Shelves",
+          "bytes": 704051
+        },
+        {
+          "path": "datasets/track_k_dataset_v2/train_gap/CCTV_Entrance_Aisle.mp4",
+          "camera_id": "CCTV_Entrance_Aisle",
+          "bytes": 710599
+        },
+        {
+          "path": "datasets/track_k_dataset_v2/train_gap/CCTV_Entrance_Aisle_End.mp4",
+          "camera_id": "CCTV_Entrance_Aisle_End",
+          "bytes": 612786
+        },
+        {
+          "path": "datasets/track_k_dataset_v2/train_gap/CCTV_Back_Aisle.mp4",
+          "camera_id": "CCTV_Back_Aisle",
+          "bytes": 631688
+        },
+        {
+          "path": "datasets/track_k_dataset_v2/train_gap/CCTV_Back_Aisle_Left.mp4",
+          "camera_id": "CCTV_Back_Aisle_Left",
+          "bytes": 524907
+        }
+      ],
+      "projection": null
+    },
+    {
+      "name": "train_refilled",
+      "kind": "train",
+      "annotations": "datasets/track_k_dataset_v2/train_refilled/annotations.jsonl",
+      "videos": [
+        {
+          "path": "datasets/track_k_dataset_v2/train_refilled/CCTV_Checkout_Shelves.mp4",
+          "camera_id": "CCTV_Checkout_Shelves",
+          "bytes": 664766
+        },
+        {
+          "path": "datasets/track_k_dataset_v2/train_refilled/CCTV_Entrance_Aisle.mp4",
+          "camera_id": "CCTV_Entrance_Aisle",
+          "bytes": 628671
+        },
+        {
+          "path": "datasets/track_k_dataset_v2/train_refilled/CCTV_Entrance_Aisle_End.mp4",
+          "camera_id": "CCTV_Entrance_Aisle_End",
+          "bytes": 569594
+        },
+        {
+          "path": "datasets/track_k_dataset_v2/train_refilled/CCTV_Back_Aisle.mp4",
+          "camera_id": "CCTV_Back_Aisle",
+          "bytes": 583660
+        },
+        {
+          "path": "datasets/track_k_dataset_v2/train_refilled/CCTV_Back_Aisle_Left.mp4",
+          "camera_id": "CCTV_Back_Aisle_Left",
+          "bytes": 473434
+        }
+      ],
+      "projection": null
+    },
+    {
+      "name": "train_queue",
+      "kind": "train",
+      "annotations": "datasets/track_k_dataset_v2/train_queue/annotations.jsonl",
+      "videos": [
+        {
+          "path": "datasets/track_k_dataset_v2/train_queue/CCTV_Checkout_Shelves.mp4",
+          "camera_id": "CCTV_Checkout_Shelves",
+          "bytes": 5268698
+        },
+        {
+          "path": "datasets/track_k_dataset_v2/train_queue/CCTV_Entrance_Aisle.mp4",
+          "camera_id": "CCTV_Entrance_Aisle",
+          "bytes": 5874248
+        },
+        {
+          "path": "datasets/track_k_dataset_v2/train_queue/CCTV_Entrance_Aisle_End.mp4",
+          "camera_id": "CCTV_Entrance_Aisle_End",
+          "bytes": 2800262
+        },
+        {
+          "path": "datasets/track_k_dataset_v2/train_queue/CCTV_Back_Aisle.mp4",
+          "camera_id": "CCTV_Back_Aisle",
+          "bytes": 2745017
+        },
+        {
+          "path": "datasets/track_k_dataset_v2/train_queue/CCTV_Back_Aisle_Left.mp4",
+          "camera_id": "CCTV_Back_Aisle_Left",
+          "bytes": 2869364
+        }
+      ],
+      "projection": null
+    }
+  ],
+  "events": "datasets/track_k_dataset_v2/events.jsonl",
+  "validation": "datasets/track_k_dataset_v2/validation.json"
+}

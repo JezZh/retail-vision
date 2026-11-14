@@ -1,0 +1,17 @@
+{
+  "files": [
+    "model_artifacts/track_k_v2_001/overlays/baseline_queue_frame_CCTV_Checkout_Shelves_0.jpg",
+    "model_artifacts/track_k_v2_001/overlays/baseline_detection_match_CCTV_Back_Aisle_Left_0.jpg",
+    "model_artifacts/track_k_v2_001/overlays/baseline_detection_false_CCTV_Back_Aisle_Left_0.jpg",
+    "model_artifacts/track_k_v2_001/overlays/baseline_detection_miss_CCTV_Back_Aisle_Left_6.jpg",
+    "model_artifacts/track_k_v2_001/overlays/clips/baseline_detection_match_CCTV_Back_Aisle_Left.mp4",
+    "model_artifacts/track_k_v2_001/overlays/clips/baseline_detection_miss_CCTV_Back_Aisle_Left.mp4",
+    "model_artifacts/track_k_v2_001/overlays/dynamic_staff_queue_frame_CCTV_Checkout_Shelves_0.jpg",
+    "model_artifacts/track_k_v2_001/overlays/dynamic_staff_detection_match_CCTV_Back_Aisle_Left_0.jpg",
+    "model_artifacts/track_k_v2_001/overlays/dynamic_staff_detection_false_CCTV_Back_Aisle_Left_0.jpg",
+    "model_artifacts/track_k_v2_001/overlays/dynamic_staff_detection_miss_CCTV_Checkout_Shelves_7.jpg",
+    "model_artifacts/track_k_v2_001/overlays/dynamic_staff_shelf_gap_match_CCTV_Entrance_Aisle_750.jpg",
+    "model_artifacts/track_k_v2_001/overlays/clips/dynamic_staff_detection_match_CCTV_Back_Aisle_Left.mp4",
+    "model_artifacts/track_k_v2_001/overlays/clips/dynamic_staff_detection_miss_CCTV_Checkout_Shelves.mp4"
+  ]
+}

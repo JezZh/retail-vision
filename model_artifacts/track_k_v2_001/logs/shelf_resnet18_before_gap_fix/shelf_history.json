@@ -1,0 +1,170 @@
+{
+  "seconds": 8.730818577110767,
+  "epochs": [
+    {
+      "epoch": 1,
+      "train_loss": 0.11966399494108541,
+      "dev": {
+        "empty_precision": 1.0,
+        "empty_recall": 1.0,
+        "empty_f1": 1.0,
+        "full_recall": 0.7771428571428571,
+        "unknown_recall": 0.9951456310679612,
+        "occlusion_false_alarm_rate": 0.0048543689320388345,
+        "known": 772,
+        "unknown": 206
+      },
+      "rank": 0.9987864077669902
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.007826304266254065,
+      "dev": {
+        "empty_precision": 1.0,
+        "empty_recall": 1.0,
+        "empty_f1": 1.0,
+        "full_recall": 0.7771428571428571,
+        "unknown_recall": 0.9951456310679612,
+        "occlusion_false_alarm_rate": 0.0048543689320388345,
+        "known": 772,
+        "unknown": 206
+      },
+      "rank": 0.9987864077669902
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.0017187009703034332,
+      "dev": {
+        "empty_precision": 1.0,
+        "empty_recall": 1.0,
+        "empty_f1": 1.0,
+        "full_recall": 0.7771428571428571,
+        "unknown_recall": 0.9854368932038835,
+        "occlusion_false_alarm_rate": 0.014563106796116505,
+        "known": 772,
+        "unknown": 206
+      },
+      "rank": 0.9963592233009708
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.006003201249970718,
+      "dev": {
+        "empty_precision": 1.0,
+        "empty_recall": 1.0,
+        "empty_f1": 1.0,
+        "full_recall": 0.7771428571428571,
+        "unknown_recall": 0.9951456310679612,
+        "occlusion_false_alarm_rate": 0.0048543689320388345,
+        "known": 772,
+        "unknown": 206
+      },
+      "rank": 0.9987864077669902
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.0027542992243912456,
+      "dev": {
+        "empty_precision": 1.0,
+        "empty_recall": 1.0,
+        "empty_f1": 1.0,
+        "full_recall": 0.7771428571428571,
+        "unknown_recall": 0.9902912621359223,
+        "occlusion_false_alarm_rate": 0.009708737864077669,
+        "known": 772,
+        "unknown": 206
+      },
+      "rank": 0.9975728155339806
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.03507909152045209,
+      "dev": {
+        "empty_precision": 1.0,
+        "empty_recall": 1.0,
+        "empty_f1": 1.0,
+        "full_recall": 0.7771428571428571,
+        "unknown_recall": 0.9757281553398058,
+        "occlusion_false_alarm_rate": 0.024271844660194174,
+        "known": 772,
+        "unknown": 206
+      },
+      "rank": 0.9939320388349514
+    }
+  ],
+  "rationale": {
+    "selected_checkpoint": "weights/shelf_best.pth",
+    "selected_epoch": 1,
+    "selection_metric": "dev empty-class F1 minus 0.25 times the occlusion false-alarm rate",
+    "seconds": 8.730818577110767,
+    "dynamic_staff_used": false,
+    "class_counts_fit": {
+      "full": 700,
+      "empty": 270,
+      "unknown": 700
+    },
+    "min_probability": 0.0,
+    "margin_sweep": [
+      {
+        "min_probability": 0.0,
+        "rank": 0.9987864077669902,
+        "empty_precision": 1.0,
+        "empty_recall": 1.0,
+        "empty_f1": 1.0,
+        "full_recall": 0.7771428571428571,
+        "unknown_recall": 0.9951456310679612,
+        "occlusion_false_alarm_rate": 0.0048543689320388345,
+        "known": 772,
+        "unknown": 206
+      },
+      {
+        "min_probability": 0.4,
+        "rank": 0.9987864077669902,
+        "empty_precision": 1.0,
+        "empty_recall": 1.0,
+        "empty_f1": 1.0,
+        "full_recall": 0.7771428571428571,
+        "unknown_recall": 0.9951456310679612,
+        "occlusion_false_alarm_rate": 0.0048543689320388345,
+        "known": 772,
+        "unknown": 206
+      },
+      {
+        "min_probability": 0.5,
+        "rank": 0.9987864077669902,
+        "empty_precision": 1.0,
+        "empty_recall": 1.0,
+        "empty_f1": 1.0,
+        "full_recall": 0.7771428571428571,
+        "unknown_recall": 0.9951456310679612,
+        "occlusion_false_alarm_rate": 0.0048543689320388345,
+        "known": 772,
+        "unknown": 206
+      },
+      {
+        "min_probability": 0.6,
+        "rank": 0.9987864077669902,
+        "empty_precision": 1.0,
+        "empty_recall": 1.0,
+        "empty_f1": 1.0,
+        "full_recall": 0.7771428571428571,
+        "unknown_recall": 0.9951456310679612,
+        "occlusion_false_alarm_rate": 0.0048543689320388345,
+        "known": 772,
+        "unknown": 206
+      },
+      {
+        "min_probability": 0.7,
+        "rank": 0.9917934007739833,
+        "empty_precision": 1.0,
+        "empty_recall": 0.9861111111111112,
+        "empty_f1": 0.993006993006993,
+        "full_recall": 0.7771428571428571,
+        "unknown_recall": 0.9951456310679612,
+        "occlusion_false_alarm_rate": 0.0048543689320388345,
+        "known": 772,
+        "unknown": 206
+      }
+    ]
+  }
+}

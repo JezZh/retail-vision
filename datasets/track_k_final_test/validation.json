@@ -1,0 +1,82 @@
+{
+  "passed": true,
+  "errors": [],
+  "entries": [
+    "Shopper_01",
+    "Shopper_02",
+    "Shopper_03",
+    "Shopper_04",
+    "Shopper_05",
+    "Shopper_06",
+    "Shopper_07",
+    "Shopper_08"
+  ],
+  "entry_times_s": [
+    1.63333,
+    9.53333,
+    17.5,
+    26.8,
+    51.3,
+    62.03333,
+    72.96667,
+    84.16667
+  ],
+  "joins": [
+    "Shopper_01",
+    "Shopper_02",
+    "Shopper_03",
+    "Shopper_04"
+  ],
+  "exits": [
+    "Shopper_01",
+    "Shopper_02",
+    "Shopper_03",
+    "Shopper_04"
+  ],
+  "exit_times_s": [
+    87.93333,
+    94.26667,
+    101.56667,
+    108.46667
+  ],
+  "staff_dispatch_s": 51.03333,
+  "staff_active_s": 54.4,
+  "milk_removed": [
+    "SM_MilkPacket01_19",
+    "SM_MilkPacket01_1",
+    "SM_MilkPacket02_73"
+  ],
+  "chips_removed": [
+    "SM_Packet2_3_Chips_6",
+    "SM_Packet2_3_Chips_21",
+    "SM_Packet2_3_Chips_31",
+    "SM_Packet2_3_Chips_41"
+  ],
+  "videos": [
+    {
+      "path": "datasets/track_k_final_test/final_test/CCTV_Checkout_Shelves.mp4",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "bytes": 16632715
+    },
+    {
+      "path": "datasets/track_k_final_test/final_test/CCTV_Entrance_Aisle.mp4",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "bytes": 15868844
+    },
+    {
+      "path": "datasets/track_k_final_test/final_test/CCTV_Entrance_Aisle_End.mp4",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "bytes": 10763006
+    },
+    {
+      "path": "datasets/track_k_final_test/final_test/CCTV_Back_Aisle.mp4",
+      "camera_id": "CCTV_Back_Aisle",
+      "bytes": 9218242
+    },
+    {
+      "path": "datasets/track_k_final_test/final_test/CCTV_Back_Aisle_Left.mp4",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "bytes": 9120607
+    }
+  ]
+}

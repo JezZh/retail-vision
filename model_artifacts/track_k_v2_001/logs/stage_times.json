@@ -1,0 +1,11 @@
+{
+  "calibrate_s": 0.838,
+  "person_train_s": 173.879,
+  "shelf_train_s": 15.694,
+  "infer_baseline_s": 242.635,
+  "score_baseline_s": 10.252,
+  "infer_dynamic_staff_s": 239.503,
+  "score_dynamic_staff_s": 9.514,
+  "finalize_s": 3.351,
+  "total_s": 696.003
+}

@@ -1,0 +1,355 @@
+{
+  "format": "track_k_final_test",
+  "note": "Held-out five-camera take. Different entry order, queue, staff walk, and partial shelf gaps from baseline and dynamic_staff. Not for training and not for choosing thresholds.",
+  "seconds": 120.0,
+  "fps": 30,
+  "width": 1280,
+  "height": 720,
+  "entry_s": [
+    1.0,
+    9.0,
+    17.0,
+    25.0,
+    50.0,
+    60.0,
+    70.0,
+    80.0
+  ],
+  "chip_gap_s": 18.0,
+  "chip_items": [
+    "SM_Packet2_3_Chips_6",
+    "SM_Packet2_3_Chips_21",
+    "SM_Packet2_3_Chips_31",
+    "SM_Packet2_3_Chips_41"
+  ],
+  "milk_gap_s": 100.0,
+  "milk_items": [
+    "SM_MilkPacket01_19",
+    "SM_MilkPacket01_1",
+    "SM_MilkPacket02_73"
+  ],
+  "cameras": {
+    "CCTV_Checkout_Shelves": {
+      "prim_path": "/World/CCTV_Checkout_Shelves",
+      "focal_length_mm": 16.0,
+      "horizontal_aperture_mm": 36.0,
+      "vertical_aperture_mm": 20.25,
+      "eye_cm": [
+        140.0,
+        -230.04,
+        391.86
+      ],
+      "forward": [
+        0.6331,
+        -0.4692,
+        -0.6157
+      ],
+      "up": [
+        0.4946,
+        -0.3666,
+        0.788
+      ],
+      "depression_deg": 38.0,
+      "world_matrix_row_major": [
+        -0.595466,
+        -0.803381,
+        0.0,
+        0.0,
+        0.494611,
+        -0.366605,
+        0.788011,
+        0.0,
+        -0.633073,
+        0.469233,
+        0.615661,
+        0.0,
+        140.0,
+        -230.035286,
+        391.861816,
+        1.0
+      ]
+    },
+    "CCTV_Entrance_Aisle": {
+      "prim_path": "/World/CCTV_Entrance_Aisle",
+      "focal_length_mm": 14.0,
+      "horizontal_aperture_mm": 36.0,
+      "vertical_aperture_mm": 20.25,
+      "eye_cm": [
+        360.0,
+        -12.0,
+        312.0
+      ],
+      "forward": [
+        0.6145,
+        -0.4574,
+        -0.6428
+      ],
+      "up": [
+        0.5156,
+        -0.3838,
+        0.766
+      ],
+      "depression_deg": 40.0,
+      "world_matrix_row_major": [
+        -0.597149,
+        -0.80213,
+        0.0,
+        0.0,
+        0.5156,
+        -0.38384,
+        0.766044,
+        0.0,
+        -0.614468,
+        0.457443,
+        0.642788,
+        0.0,
+        360.000045,
+        -11.99676,
+        312.0,
+        1.0
+      ]
+    },
+    "CCTV_Entrance_Aisle_End": {
+      "prim_path": "/World/CCTV_Entrance_Aisle_End",
+      "focal_length_mm": 8.0,
+      "horizontal_aperture_mm": 20.954999923706055,
+      "vertical_aperture_mm": 15.290800094604492,
+      "eye_cm": [
+        1140.0,
+        -18.0,
+        312.0
+      ],
+      "forward": [
+        0.03,
+        -0.6683,
+        -0.7433
+      ],
+      "up": [
+        0.0333,
+        -0.7426,
+        0.6689
+      ],
+      "depression_deg": 48.014,
+      "world_matrix_row_major": [
+        -0.998993,
+        -0.044865,
+        0.0,
+        0.0,
+        0.033348,
+        -0.742559,
+        0.66895,
+        0.0,
+        -0.030012,
+        0.668276,
+        0.743307,
+        0.0,
+        1140.0,
+        -18.0,
+        312.0,
+        1.0
+      ]
+    },
+    "CCTV_Back_Aisle": {
+      "prim_path": "/World/CCTV_Back_Aisle",
+      "focal_length_mm": 16.0,
+      "horizontal_aperture_mm": 36.0,
+      "vertical_aperture_mm": 20.25,
+      "eye_cm": [
+        1120.0,
+        -1155.0,
+        275.0
+      ],
+      "forward": [
+        0.0,
+        0.809,
+        -0.5878
+      ],
+      "up": [
+        0.0,
+        0.5878,
+        0.809
+      ],
+      "depression_deg": 36.0,
+      "world_matrix_row_major": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.587785,
+        0.809017,
+        0.0,
+        0.0,
+        -0.809017,
+        0.587785,
+        0.0,
+        1120.0,
+        -1155.0,
+        275.0,
+        1.0
+      ]
+    },
+    "CCTV_Back_Aisle_Left": {
+      "prim_path": "/World/CCTV_Back_Aisle_Left",
+      "focal_length_mm": 12.0,
+      "horizontal_aperture_mm": 36.0,
+      "vertical_aperture_mm": 20.25,
+      "eye_cm": [
+        430.0,
+        -1040.0,
+        275.0
+      ],
+      "forward": [
+        0.223,
+        0.7777,
+        -0.5878
+      ],
+      "up": [
+        0.162,
+        0.565,
+        0.809
+      ],
+      "depression_deg": 36.0,
+      "world_matrix_row_major": [
+        0.961262,
+        -0.275637,
+        0.0,
+        0.0,
+        0.162016,
+        0.565015,
+        0.809017,
+        0.0,
+        -0.222995,
+        -0.777677,
+        0.587785,
+        0.0,
+        430.0,
+        -1040.0,
+        275.0,
+        1.0
+      ]
+    }
+  },
+  "scenarios": [
+    {
+      "name": "final_test",
+      "kind": "train",
+      "annotations": "datasets/track_k_final_test/final_test/annotations.jsonl",
+      "videos": [
+        {
+          "path": "datasets/track_k_final_test/final_test/CCTV_Checkout_Shelves.mp4",
+          "camera_id": "CCTV_Checkout_Shelves",
+          "bytes": 16632715
+        },
+        {
+          "path": "datasets/track_k_final_test/final_test/CCTV_Entrance_Aisle.mp4",
+          "camera_id": "CCTV_Entrance_Aisle",
+          "bytes": 15868844
+        },
+        {
+          "path": "datasets/track_k_final_test/final_test/CCTV_Entrance_Aisle_End.mp4",
+          "camera_id": "CCTV_Entrance_Aisle_End",
+          "bytes": 10763006
+        },
+        {
+          "path": "datasets/track_k_final_test/final_test/CCTV_Back_Aisle.mp4",
+          "camera_id": "CCTV_Back_Aisle",
+          "bytes": 9218242
+        },
+        {
+          "path": "datasets/track_k_final_test/final_test/CCTV_Back_Aisle_Left.mp4",
+          "camera_id": "CCTV_Back_Aisle_Left",
+          "bytes": 9120607
+        }
+      ],
+      "projection": {
+        "flip_y": true,
+        "mean_iou": 0.698,
+        "samples": 17
+      }
+    }
+  ],
+  "events": "datasets/track_k_final_test/final_test/events.jsonl",
+  "validation": {
+    "passed": true,
+    "errors": [],
+    "entries": [
+      "Shopper_01",
+      "Shopper_02",
+      "Shopper_03",
+      "Shopper_04",
+      "Shopper_05",
+      "Shopper_06",
+      "Shopper_07",
+      "Shopper_08"
+    ],
+    "entry_times_s": [
+      1.63333,
+      9.53333,
+      17.5,
+      26.8,
+      51.3,
+      62.03333,
+      72.96667,
+      84.16667
+    ],
+    "joins": [
+      "Shopper_01",
+      "Shopper_02",
+      "Shopper_03",
+      "Shopper_04"
+    ],
+    "exits": [
+      "Shopper_01",
+      "Shopper_02",
+      "Shopper_03",
+      "Shopper_04"
+    ],
+    "exit_times_s": [
+      87.93333,
+      94.26667,
+      101.56667,
+      108.46667
+    ],
+    "staff_dispatch_s": 51.03333,
+    "staff_active_s": 54.4,
+    "milk_removed": [
+      "SM_MilkPacket01_19",
+      "SM_MilkPacket01_1",
+      "SM_MilkPacket02_73"
+    ],
+    "chips_removed": [
+      "SM_Packet2_3_Chips_6",
+      "SM_Packet2_3_Chips_21",
+      "SM_Packet2_3_Chips_31",
+      "SM_Packet2_3_Chips_41"
+    ],
+    "videos": [
+      {
+        "path": "datasets/track_k_final_test/final_test/CCTV_Checkout_Shelves.mp4",
+        "camera_id": "CCTV_Checkout_Shelves",
+        "bytes": 16632715
+      },
+      {
+        "path": "datasets/track_k_final_test/final_test/CCTV_Entrance_Aisle.mp4",
+        "camera_id": "CCTV_Entrance_Aisle",
+        "bytes": 15868844
+      },
+      {
+        "path": "datasets/track_k_final_test/final_test/CCTV_Entrance_Aisle_End.mp4",
+        "camera_id": "CCTV_Entrance_Aisle_End",
+        "bytes": 10763006
+      },
+      {
+        "path": "datasets/track_k_final_test/final_test/CCTV_Back_Aisle.mp4",
+        "camera_id": "CCTV_Back_Aisle",
+        "bytes": 9218242
+      },
+      {
+        "path": "datasets/track_k_final_test/final_test/CCTV_Back_Aisle_Left.mp4",
+        "camera_id": "CCTV_Back_Aisle_Left",
+        "bytes": 9120607
+      }
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+CALIBRATION door True slots 18 queue {'counter_01': True, 'counter_02': True} staff True
+CALIBRATION_DETAIL agree 3 disagree 0 sign -1 queue {'counter_01': (True, 1.0), 'counter_02': (True, 0.86)} staff_home [1242.5, 322.0] dispatch_px 94.63744137493995
+PERSON_EXTRACT fit 1467 dev 165
+PERSON_EPOCH 1 step 25 loss 0.4521
+PERSON_EPOCH 1 step 50 loss 0.4430
+PERSON_EPOCH 1 step 75 loss 0.4825
+PERSON_EPOCH 1 step 100 loss 0.4920
+PERSON_EPOCH 1 step 125 loss 0.5177
+PERSON_EPOCH 1 step 150 loss 0.5247
+PERSON_EPOCH 1 step 175 loss 0.5314
+PERSON_EPOCH 1 step 200 loss 0.5367
+PERSON_EPOCH 1 step 225 loss 0.5386
+PERSON_EPOCH 1 step 250 loss 0.5418
+PERSON_EPOCH 1 step 275 loss 0.5522
+PERSON_EPOCH 1 step 300 loss 0.5597
+PERSON_EPOCH 1 step 325 loss 0.5686
+PERSON_EPOCH 1 step 350 loss 0.5768
+PERSON_EPOCH_DONE 1 loss 0.5827 shopper_ap50 0.6855
+PERSON_EPOCH 2 step 25 loss 0.6130
+PERSON_EPOCH 2 step 50 loss 0.6282
+PERSON_EPOCH 2 step 75 loss 0.6629
+PERSON_EPOCH 2 step 100 loss 0.6730
+PERSON_EPOCH 2 step 125 loss 0.6816
+PERSON_EPOCH 2 step 150 loss 0.6908
+PERSON_EPOCH 2 step 175 loss 0.6937
+PERSON_EPOCH 2 step 200 loss 0.7026
+PERSON_EPOCH 2 step 225 loss 0.7016
+PERSON_EPOCH 2 step 250 loss 0.6925
+PERSON_EPOCH 2 step 275 loss 0.7002
+PERSON_EPOCH 2 step 300 loss 0.7021
+PERSON_EPOCH 2 step 325 loss 0.7012
+PERSON_EPOCH 2 step 350 loss 0.7083
+PERSON_EPOCH_DONE 2 loss 0.7104 shopper_ap50 0.7768
+PERSON_EPOCH 3 step 25 loss 0.7120
+PERSON_EPOCH 3 step 50 loss 0.6821
+PERSON_EPOCH 3 step 75 loss 0.7158
+PERSON_EPOCH 3 step 100 loss 0.6989
+PERSON_EPOCH 3 step 125 loss 0.7270
+PERSON_EPOCH 3 step 150 loss 0.7275
+PERSON_EPOCH 3 step 175 loss 0.7242
+PERSON_EPOCH 3 step 200 loss 0.7191
+PERSON_EPOCH 3 step 225 loss 0.7312
+PERSON_EPOCH 3 step 250 loss 0.7325
+PERSON_EPOCH 3 step 275 loss 0.7370
+PERSON_EPOCH 3 step 300 loss 0.7298
+PERSON_EPOCH 3 step 325 loss 0.7326
+PERSON_EPOCH 3 step 350 loss 0.7364
+PERSON_EPOCH_DONE 3 loss 0.7393 shopper_ap50 0.7648
+PERSON_EPOCH 4 step 25 loss 0.7123
+PERSON_EPOCH 4 step 50 loss 0.7302
+PERSON_EPOCH 4 step 75 loss 0.7167
+PERSON_EPOCH 4 step 100 loss 0.7294
+PERSON_EPOCH 4 step 125 loss 0.7326
+PERSON_EPOCH 4 step 150 loss 0.7353
+PERSON_EPOCH 4 step 175 loss 0.7292
+PERSON_EPOCH 4 step 200 loss 0.7339
+PERSON_EPOCH 4 step 225 loss 0.7325
+PERSON_EPOCH 4 step 250 loss 0.7277
+PERSON_EPOCH 4 step 275 loss 0.7322
+PERSON_EPOCH 4 step 300 loss 0.7419
+PERSON_EPOCH 4 step 325 loss 0.7459
+PERSON_EPOCH 4 step 350 loss 0.7472
+PERSON_EPOCH_DONE 4 loss 0.7503 shopper_ap50 0.7622
+PERSON_EPOCH 5 step 25 loss 0.7757
+PERSON_EPOCH 5 step 50 loss 0.7372
+PERSON_EPOCH 5 step 75 loss 0.7220
+PERSON_EPOCH 5 step 100 loss 0.7306
+PERSON_EPOCH 5 step 125 loss 0.7338
+PERSON_EPOCH 5 step 150 loss 0.7367
+PERSON_EPOCH 5 step 175 loss 0.7430
+PERSON_EPOCH 5 step 200 loss 0.7383
+PERSON_EPOCH 5 step 225 loss 0.7439
+PERSON_EPOCH 5 step 250 loss 0.7476
+PERSON_EPOCH 5 step 275 loss 0.7405
+PERSON_EPOCH 5 step 300 loss 0.7495
+PERSON_EPOCH 5 step 325 loss 0.7517
+PERSON_EPOCH 5 step 350 loss 0.7596
+PERSON_EPOCH_DONE 5 loss 0.7581 shopper_ap50 0.7836
+PERSON_THRESHOLD 0.5 sweep [{'threshold': 0.2, 'tp': 520, 'fp': 305, 'fn': 128, 'precision': 0.6303030303030303, 'recall': 0.8024691358024691, 'f1': 0.7060420909708077}, {'threshold': 0.3, 'tp': 505, 'fp': 214, 'fn': 143, 'precision': 0.7023643949930459, 'recall': 0.779320987654321, 'f1': 0.7388441843452818}, {'threshold': 0.4, 'tp': 485, 'fp': 153, 'fn': 163, 'precision': 0.7601880877742947, 'recall': 0.7484567901234568, 'f1': 0.7542768273716952}, {'threshold': 0.5, 'tp': 460, 'fp': 102, 'fn': 188, 'precision': 0.8185053380782918, 'recall': 0.7098765432098766, 'f1': 0.7603305785123968}, {'threshold': 0.6, 'tp': 440, 'fp': 80, 'fn': 208, 'precision': 0.8461538461538461, 'recall': 0.6790123456790124, 'f1': 0.7534246575342466}, {'threshold': 0.7, 'tp': 424, 'fp': 62, 'fn': 224, 'precision': 0.8724279835390947, 'recall': 0.654320987654321, 'f1': 0.7477954144620811}]
+PERSON_TRAIN_DONE seconds 149.4 best_epoch 5 ap 0.7836
+SHELF_COUNTS {'fit': {'full': 700, 'empty': 270, 'unknown': 700}, 'dev': {'full': 700, 'empty': 72, 'unknown': 206}}
+SHELF_EPOCH_DONE 1 loss 0.1197 empty_f1 1.0000 alarm 0.0049
+SHELF_EPOCH_DONE 2 loss 0.0078 empty_f1 1.0000 alarm 0.0049
+SHELF_EPOCH_DONE 3 loss 0.0017 empty_f1 1.0000 alarm 0.0146
+SHELF_EPOCH_DONE 4 loss 0.0060 empty_f1 1.0000 alarm 0.0049
+SHELF_EPOCH_DONE 5 loss 0.0028 empty_f1 1.0000 alarm 0.0097
+SHELF_EPOCH_DONE 6 loss 0.0351 empty_f1 1.0000 alarm 0.0243
+SHELF_MARGIN 0.0
+SHELF_TRAIN_DONE seconds 8.7 best_epoch 1
+INFER baseline CCTV_Checkout_Shelves frame 500
+INFER baseline CCTV_Checkout_Shelves frame 1000
+INFER baseline CCTV_Checkout_Shelves frame 1500
+INFER baseline CCTV_Checkout_Shelves frame 2000
+INFER baseline CCTV_Checkout_Shelves frame 2500
+INFER_CAMERA_DONE baseline CCTV_Checkout_Shelves frames 2700
+INFER baseline CCTV_Entrance_Aisle frame 500
+INFER baseline CCTV_Entrance_Aisle frame 1000
+INFER baseline CCTV_Entrance_Aisle frame 1500
+INFER baseline CCTV_Entrance_Aisle frame 2000
+INFER baseline CCTV_Entrance_Aisle frame 2500
+INFER_CAMERA_DONE baseline CCTV_Entrance_Aisle frames 2700
+INFER baseline CCTV_Entrance_Aisle_End frame 500
+INFER baseline CCTV_Entrance_Aisle_End frame 1000
+INFER baseline CCTV_Entrance_Aisle_End frame 1500
+INFER baseline CCTV_Entrance_Aisle_End frame 2000
+INFER baseline CCTV_Entrance_Aisle_End frame 2500
+INFER_CAMERA_DONE baseline CCTV_Entrance_Aisle_End frames 2700
+INFER baseline CCTV_Back_Aisle frame 500
+INFER baseline CCTV_Back_Aisle frame 1000
+INFER baseline CCTV_Back_Aisle frame 1500
+INFER baseline CCTV_Back_Aisle frame 2000
+INFER baseline CCTV_Back_Aisle frame 2500
+INFER_CAMERA_DONE baseline CCTV_Back_Aisle frames 2700
+INFER baseline CCTV_Back_Aisle_Left frame 500
+INFER baseline CCTV_Back_Aisle_Left frame 1000
+INFER baseline CCTV_Back_Aisle_Left frame 1500
+INFER baseline CCTV_Back_Aisle_Left frame 2000
+INFER baseline CCTV_Back_Aisle_Left frame 2500
+INFER_CAMERA_DONE baseline CCTV_Back_Aisle_Left frames 2700
+INFER_DONE baseline frames 13500 model_fps 74.247 e2e_fps 55.72
+SCORE baseline shopper_ap50 0.7554722250286011 shelf_f1 None forbidden []
+INFER dynamic_staff CCTV_Checkout_Shelves frame 500
+INFER dynamic_staff CCTV_Checkout_Shelves frame 1000
+INFER dynamic_staff CCTV_Checkout_Shelves frame 1500
+INFER dynamic_staff CCTV_Checkout_Shelves frame 2000
+INFER dynamic_staff CCTV_Checkout_Shelves frame 2500
+INFER_CAMERA_DONE dynamic_staff CCTV_Checkout_Shelves frames 2700
+INFER dynamic_staff CCTV_Entrance_Aisle frame 500
+INFER dynamic_staff CCTV_Entrance_Aisle frame 1000
+INFER dynamic_staff CCTV_Entrance_Aisle frame 1500
+INFER dynamic_staff CCTV_Entrance_Aisle frame 2000
+INFER dynamic_staff CCTV_Entrance_Aisle frame 2500
+INFER_CAMERA_DONE dynamic_staff CCTV_Entrance_Aisle frames 2700
+INFER dynamic_staff CCTV_Entrance_Aisle_End frame 500
+INFER dynamic_staff CCTV_Entrance_Aisle_End frame 1000
+INFER dynamic_staff CCTV_Entrance_Aisle_End frame 1500
+INFER dynamic_staff CCTV_Entrance_Aisle_End frame 2000
+INFER dynamic_staff CCTV_Entrance_Aisle_End frame 2500
+INFER_CAMERA_DONE dynamic_staff CCTV_Entrance_Aisle_End frames 2700
+INFER dynamic_staff CCTV_Back_Aisle frame 500
+INFER dynamic_staff CCTV_Back_Aisle frame 1000
+INFER dynamic_staff CCTV_Back_Aisle frame 1500
+INFER dynamic_staff CCTV_Back_Aisle frame 2000
+INFER dynamic_staff CCTV_Back_Aisle frame 2500
+INFER_CAMERA_DONE dynamic_staff CCTV_Back_Aisle frames 2700
+INFER dynamic_staff CCTV_Back_Aisle_Left frame 500
+INFER dynamic_staff CCTV_Back_Aisle_Left frame 1000
+INFER dynamic_staff CCTV_Back_Aisle_Left frame 1500
+INFER dynamic_staff CCTV_Back_Aisle_Left frame 2000
+INFER dynamic_staff CCTV_Back_Aisle_Left frame 2500
+INFER_CAMERA_DONE dynamic_staff CCTV_Back_Aisle_Left frames 2700
+INFER_DONE dynamic_staff frames 13500 model_fps 75.793 e2e_fps 56.456
+SCORE dynamic_staff shopper_ap50 0.6366761521230871 shelf_f1 0.9402780904226766 forbidden []
+FINALIZE_DONE overlays 11
+PIPELINE_OK

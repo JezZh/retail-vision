@@ -1,0 +1,740 @@
+{
+  "format": "track_k_v2_model_manifest",
+  "seed": 17,
+  "source_dataset": {
+    "path": "datasets/track_k_dataset_v2",
+    "dataset_validator_passed": true,
+    "dataset_validator_note": "The dataset validator checks alignment and measured events. It does not validate these models.",
+    "files": [
+      {
+        "path": "datasets/track_k_dataset_v2/manifest.json",
+        "bytes": 15085,
+        "sha256": "22bf798f9f2fe27ed7b463eb101cc23022c6bb3534f6cacb1b59ebded6b80926"
+      },
+      {
+        "path": "datasets/track_k_dataset_v2/validation.json",
+        "bytes": 21751,
+        "sha256": "2822b98cc56ca17f86d396871434c41d90ff9a958fa8d4814a6119008244f4cc"
+      },
+      {
+        "path": "datasets/track_k_dataset_v2/shelf_regions.json",
+        "bytes": 1335,
+        "sha256": "34c9001029370ca4c59914998cf0ee268e21490eee9801b85330bdcc363766be"
+      },
+      {
+        "path": "datasets/track_k_dataset_v2/events.jsonl",
+        "bytes": 74763,
+        "sha256": "ce557b98c1c1d055d65bf550d26d8a1c959bf6a3505afa62ac53128f08f6df15"
+      },
+      {
+        "path": "metadata.json",
+        "bytes": 5173180,
+        "sha256": "9a03558f9aee8fcfcfd98e2415d86d749fe0c0821450c65c10ba6abe852d11fb"
+      },
+      {
+        "path": "datasets/track_k_dataset_v2/baseline/annotations.jsonl",
+        "bytes": 104675901,
+        "sha256": "145007f615379bd0508f6ba0fbe57be64f086ee11f1c98a482b1f30b11b92e6a"
+      },
+      {
+        "path": "datasets/track_k_dataset_v2/baseline/events.jsonl",
+        "bytes": 10057,
+        "sha256": "3b641eb2d24ba9854b64dcc6f452a487dfb22051eb587c0286924f3afe1aa2bc"
+      },
+      {
+        "path": "datasets/track_k_dataset_v2/baseline/CCTV_Checkout_Shelves.mp4",
+        "bytes": 11675779,
+        "sha256": "fd471f0d2bd8c4e2fd49127252b9a3724b1486562c2f0ed7b65e12566924b559"
+      },
+      {
+        "path": "datasets/track_k_dataset_v2/baseline/CCTV_Entrance_Aisle.mp4",
+        "bytes": 11330133,
+        "sha256": "4cfff230260008847b224b6fe2c32e5ff31e3ddb3ca2b1d5f91180d92f5c22f7"
+      },
+      {
+        "path": "datasets/track_k_dataset_v2/baseline/CCTV_Entrance_Aisle_End.mp4",
+        "bytes": 7928477,
+        "sha256": "0ed220e034883eac3ac3eaf9dc2f3de334b017fd6b38c3b1f5097f91918ca98c"
+      },
+      {
+        "path": "datasets/track_k_dataset_v2/baseline/CCTV_Back_Aisle.mp4",
+        "bytes": 6662253,
+        "sha256": "fd218f3e4898425fecd031b358f61f945c0293a758fcf63eabe344b2cb1849ae"
+      },
+      {
+        "path": "datasets/track_k_dataset_v2/baseline/CCTV_Back_Aisle_Left.mp4",
+        "bytes": 7381482,
+        "sha256": "4ba7dc60e58d25c3040fdb6835c104d8351243b867e480367152ba6f06fd83a6"
+      },
+      {
+        "path": "datasets/track_k_dataset_v2/train_occlusion/annotations.jsonl",
+        "bytes": 27916273,
+        "sha256": "ea980dd9b3dfc2d446b5f00f674c3e5f4ad6a9efdf59cd196f4c17a89245b432"
+      },
+      {
+        "path": "datasets/track_k_dataset_v2/train_occlusion/events.jsonl",
+        "bytes": 4944,
+        "sha256": "c44854c2d3b315ac9e0f90ff68b018d40c09235f1c7935b00969507defe4c714"
+      },
+      {
+        "path": "datasets/track_k_dataset_v2/train_occlusion/CCTV_Checkout_Shelves.mp4",
+        "bytes": 4010138,
+        "sha256": "af11f14d6841aac4b76ba359fdcdf24b173659a4e043ace0bb050c3dd72cb6f4"
+      },
+      {
+        "path": "datasets/track_k_dataset_v2/train_occlusion/CCTV_Entrance_Aisle.mp4",
+        "bytes": 4267299,
+        "sha256": "1af96802ca0fefc3363648cdc32e6940a1744be4b9315b13a6e6aca15f358090"
+      },
+      {
+        "path": "datasets/track_k_dataset_v2/train_occlusion/CCTV_Entrance_Aisle_End.mp4",
+        "bytes": 1879306,
+        "sha256": "31cd224c6350ae60c2402c7376ce53999d162404a43b6f2b99731ac185c2fff7"
+      },
+      {
+        "path": "datasets/track_k_dataset_v2/train_occlusion/CCTV_Back_Aisle.mp4",
+        "bytes": 1841368,
+        "sha256": "02c706a67e8b305c15847d08b38fbe3e7e1c9e9c08fc54f43a83a50d58144956"
+      },
+      {
+        "path": "datasets/track_k_dataset_v2/train_occlusion/CCTV_Back_Aisle_Left.mp4",
+        "bytes": 3313987,
+        "sha256": "291153df6f2533e0440eac88cc65cbc5fb5d505d7e193107567bf60a2bb6f2f5"
+      },
+      {
+        "path": "datasets/track_k_dataset_v2/train_gap/annotations.jsonl",
+        "bytes": 5700355,
+        "sha256": "22a2798040b61194d0b79684d9e1ad7388090741969e65977ce4b9d52ecb09dd"
+      },
+      {
+        "path": "datasets/track_k_dataset_v2/train_gap/events.jsonl",
+        "bytes": 21397,
+        "sha256": "fbdd17a0e0eebb47991a7a47bc237b851590c778b8924e30761ac9509ef20d3a"
+      },
+      {
+        "path": "datasets/track_k_dataset_v2/train_gap/CCTV_Checkout_Shelves.mp4",
+        "bytes": 704051,
+        "sha256": "d699888d8ec76ae8adc1e1da1baf88bea8a7e40baf4dc538e7a53809056c0fa0"
+      },
+      {
+        "path": "datasets/track_k_dataset_v2/train_gap/CCTV_Entrance_Aisle.mp4",
+        "bytes": 710599,
+        "sha256": "5a0928b6c3f2c24006ba281eaca016215fad15078da34f1c9c15e47e618e1776"
+      },
+      {
+        "path": "datasets/track_k_dataset_v2/train_gap/CCTV_Entrance_Aisle_End.mp4",
+        "bytes": 612786,
+        "sha256": "a5493e3262bd670ed6d7b79d5beae2216bc64ce30fbe283a382e5e7ebbc7c2df"
+      },
+      {
+        "path": "datasets/track_k_dataset_v2/train_gap/CCTV_Back_Aisle.mp4",
+        "bytes": 631688,
+        "sha256": "1a09db9b65526c8da94613db052089991e09e69b6d2b9c8da54a2138867f49d0"
+      },
+      {
+        "path": "datasets/track_k_dataset_v2/train_gap/CCTV_Back_Aisle_Left.mp4",
+        "bytes": 524907,
+        "sha256": "ad66acb7682fe6d09c636cc057c8067571068fa94631aaecbb018f6c618c6533"
+      },
+      {
+        "path": "datasets/track_k_dataset_v2/train_refilled/annotations.jsonl",
+        "bytes": 4631250,
+        "sha256": "fef4cd20ea451963fc2b25c07db9c058a262623e7ad3912ae90c09e0778899d0"
+      },
+      {
+        "path": "datasets/track_k_dataset_v2/train_refilled/events.jsonl",
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "path": "datasets/track_k_dataset_v2/train_refilled/CCTV_Checkout_Shelves.mp4",
+        "bytes": 664766,
+        "sha256": "5619c7814aa3bc03b422e286914b51313175a471e963707d16b6d3eaaad31cb5"
+      },
+      {
+        "path": "datasets/track_k_dataset_v2/train_refilled/CCTV_Entrance_Aisle.mp4",
+        "bytes": 628671,
+        "sha256": "f801c42b9b8ad9bbef8a3fcaf2e9779f99ef8d46d068bfa2d4dc15cf277ad367"
+      },
+      {
+        "path": "datasets/track_k_dataset_v2/train_refilled/CCTV_Entrance_Aisle_End.mp4",
+        "bytes": 569594,
+        "sha256": "abbfb3f334478b2f3d1e60cb23556aecc7fdafa31a6ba0c0126dbd07715eb68d"
+      },
+      {
+        "path": "datasets/track_k_dataset_v2/train_refilled/CCTV_Back_Aisle.mp4",
+        "bytes": 583660,
+        "sha256": "e150a4f36e52c509cce34e8d008fcbcaf2c5bb27123a56fa31d52d383761d12f"
+      },
+      {
+        "path": "datasets/track_k_dataset_v2/train_refilled/CCTV_Back_Aisle_Left.mp4",
+        "bytes": 473434,
+        "sha256": "b8a914ed373ce9227ae8a20554d5400283b3ba9bca57c0916dcc0bd3fd27a35e"
+      },
+      {
+        "path": "datasets/track_k_dataset_v2/train_queue/annotations.jsonl",
+        "bytes": 41975648,
+        "sha256": "14d507790277b6dfdebe422c8c238be963c6423a9bdeebe1ce8f3b29507d150a"
+      },
+      {
+        "path": "datasets/track_k_dataset_v2/train_queue/events.jsonl",
+        "bytes": 4979,
+        "sha256": "97b5ac4c032bc05ae59dd5dde5ca4382e19d1a0761b469ca2500c73e4b8134e4"
+      },
+      {
+        "path": "datasets/track_k_dataset_v2/train_queue/CCTV_Checkout_Shelves.mp4",
+        "bytes": 5268698,
+        "sha256": "6d2d3767846fc169b60bece2c914f587651aac0bd97c0a0bc95d1ebf71580f6d"
+      },
+      {
+        "path": "datasets/track_k_dataset_v2/train_queue/CCTV_Entrance_Aisle.mp4",
+        "bytes": 5874248,
+        "sha256": "60d3d53d513f298c4a2ac25a77a93d0b6624ab54fc0b8e901eb99231f8c47159"
+      },
+      {
+        "path": "datasets/track_k_dataset_v2/train_queue/CCTV_Entrance_Aisle_End.mp4",
+        "bytes": 2800262,
+        "sha256": "3c5f5b0dfe13714869a3576eb80ec79f9f89f1ee331a082e3cc3b0254e407039"
+      },
+      {
+        "path": "datasets/track_k_dataset_v2/train_queue/CCTV_Back_Aisle.mp4",
+        "bytes": 2745017,
+        "sha256": "b781727d6ba106f37eac60a5c3e94f6f719759c4e4729f451b61e676e57756f1"
+      },
+      {
+        "path": "datasets/track_k_dataset_v2/train_queue/CCTV_Back_Aisle_Left.mp4",
+        "bytes": 2869364,
+        "sha256": "70a1366d6700bd920c20c03b25f9b35cca93f57c69fc8100622249b04ef4868e"
+      },
+      {
+        "path": "datasets/track_k_dataset_v2/dynamic_staff/annotations.jsonl",
+        "bytes": 103400723,
+        "sha256": "d07f4e78bf1454e162d48ea075865e13dc24eef952767699c43673447f08cc08"
+      },
+      {
+        "path": "datasets/track_k_dataset_v2/dynamic_staff/events.jsonl",
+        "bytes": 33386,
+        "sha256": "fcdcba5df177a99ad19e931b6fa083e6fdb1cfa4eb4a3ca90ab4164800635033"
+      },
+      {
+        "path": "datasets/track_k_dataset_v2/dynamic_staff/CCTV_Checkout_Shelves.mp4",
+        "bytes": 12959337,
+        "sha256": "45d1aeaeaceef05e22848e8cf3008d462d86b6bb9f1f5b1db34da5422324a9c3"
+      },
+      {
+        "path": "datasets/track_k_dataset_v2/dynamic_staff/CCTV_Entrance_Aisle.mp4",
+        "bytes": 12507461,
+        "sha256": "5c4f8eaa24215bfe9289233f595dfb00935de3f10e5c04d7ae401961f5282005"
+      },
+      {
+        "path": "datasets/track_k_dataset_v2/dynamic_staff/CCTV_Entrance_Aisle_End.mp4",
+        "bytes": 7772225,
+        "sha256": "d23375a9a97020cadcf9b1282003fad7410585e9dfabd6e00b40c2ac9abfd00d"
+      },
+      {
+        "path": "datasets/track_k_dataset_v2/dynamic_staff/CCTV_Back_Aisle.mp4",
+        "bytes": 6810580,
+        "sha256": "183b13850c851bc2499ba166c3fd84da344c36ed366d29fb5e81d07e00f933f4"
+      },
+      {
+        "path": "datasets/track_k_dataset_v2/dynamic_staff/CCTV_Back_Aisle_Left.mp4",
+        "bytes": 7271260,
+        "sha256": "8d3848d57dd49fbcdf62a641d41554ea5fdb0414e226a6b543630b65441c6a74"
+      }
+    ]
+  },
+  "excluded_annotation_tape": {
+    "path": "isaac_sim_scripts/marketgen_tracking_model.pth",
+    "sha256": "db04a006abc417c8950b00d64f5ff8b5be6582d0990b8ef0f83285e61ce7fa6a",
+    "note": "Simulator box counts from an older recorder. Not loaded and not renamed."
+  },
+  "protected_stage": {
+    "path": "ConvenienceStore01.usd",
+    "bytes": 1463699
+  },
+  "weights": {
+    "person_selected.pth": {
+      "path": "model_artifacts/track_k_v2_001/weights/person_selected.pth",
+      "bytes": 76041231,
+      "sha256": "353a31324fb1b36ae9f82dfa79d03d7d66ffffc24a9b243f67cbd1ca6eae808a"
+    },
+    "person_best.pth": {
+      "path": "model_artifacts/track_k_v2_001/weights/person_best.pth",
+      "bytes": 76041231,
+      "sha256": "353a31324fb1b36ae9f82dfa79d03d7d66ffffc24a9b243f67cbd1ca6eae808a"
+    },
+    "person_last.pth": {
+      "path": "model_artifacts/track_k_v2_001/weights/person_last.pth",
+      "bytes": 76041231,
+      "sha256": "7ab383ff04cc66309c62a4ea498468c3f8917c04eee6adb69fca8a79dbfa5391"
+    },
+    "shelf_selected.pth": {
+      "path": "model_artifacts/track_k_v2_001/weights/shelf_selected.pth",
+      "bytes": 501399,
+      "sha256": "be62a6691dc84455a6b2aedc4091d4ba1a0ea0c34a8f863237d7bfc99844eec1"
+    },
+    "shelf_best.pth": {
+      "path": "model_artifacts/track_k_v2_001/weights/shelf_best.pth",
+      "bytes": 44792523,
+      "sha256": "e3b455411392c0f2f533612fbc24d0b929e773ba2a4312aaf1aa3b3851ba9cd3"
+    },
+    "shelf_last.pth": {
+      "path": "model_artifacts/track_k_v2_001/weights/shelf_last.pth",
+      "bytes": 44792459,
+      "sha256": "cf893d8a09c5988085071b442c3671530bf68e547cb3c1135c713fa50bf23549"
+    }
+  },
+  "input": {
+    "video": "1280x720 BGR decoded to RGB. Person model uses the torchvision resize, short side 320, long side at most 640.",
+    "shelf_crop": "Frozen slot ROI, cubic resize to 128x128, ImageNet mean and std.",
+    "not_model_inputs": [
+      "annotations",
+      "events",
+      "simulator world positions",
+      "item active flags",
+      "scenario names",
+      "scripted timestamps"
+    ]
+  },
+  "thresholds": {
+    "person_score": 0.5,
+    "person_score_floor_saved_for_ap": 0.05,
+    "shelf_min_probability": 0.0,
+    "track_iou": 0.3,
+    "track_max_miss_frames": 10,
+    "alert_count": 4,
+    "alert_frames": 15,
+    "door_max_distance_px": 130.0,
+    "door_outside_frames": 2,
+    "door_entry_gap_frames": 2,
+    "clipped_bottom_px": 710.0,
+    "clipped_max_height_px": 100.0,
+    "clipped_grow_px": 80.0,
+    "clipped_window_frames": 60,
+    "queue_dwell_frames": 15,
+    "staff_dispatch_distance_px": 113.415,
+    "staff_dispatch_frames": 4
+  },
+  "classes": {
+    "person": [
+      "background",
+      "shopper",
+      "staff"
+    ],
+    "shelf": [
+      "full",
+      "empty",
+      "unknown"
+    ]
+  },
+  "split": {
+    "train_scenarios": [
+      "baseline",
+      "train_occlusion",
+      "train_gap",
+      "train_refilled",
+      "train_queue"
+    ],
+    "fit_fraction": 0.8,
+    "development_frames": "last 20 percent of each training scenario, stride 30",
+    "held_out_evaluation": "dynamic_staff",
+    "future_final_test": "A new combined five-camera take with different people, paths, and event timing. It does not exist. Do not train or tune on it.",
+    "baseline_note": "baseline is inside the training scenarios by request. Full-clip baseline scores are not a pure holdout.",
+    "person_split_file": "calibration/person_split.json",
+    "shelf_split_file": "calibration/shelf_split.json",
+    "calibration_file": "calibration/calibration.json"
+  },
+  "selected_checkpoints": {
+    "person": {
+      "selected_checkpoint": "weights/person_best.pth",
+      "selected_epoch": 5,
+      "selection_metric": "shopper AP at IoU 0.50 on the temporal dev tail of the training scenarios",
+      "dev_shopper_ap50": 0.7835735261826771,
+      "epochs": 5,
+      "seconds": 149.39490998722613,
+      "why_not_last": "The last epoch is kept, but the selected weights are the epoch with the highest dev shopper AP50.",
+      "dynamic_staff_used": false,
+      "operating_threshold": 0.5,
+      "threshold_sweep": [
+        {
+          "threshold": 0.2,
+          "tp": 520,
+          "fp": 305,
+          "fn": 128,
+          "precision": 0.6303030303030303,
+          "recall": 0.8024691358024691,
+          "f1": 0.7060420909708077
+        },
+        {
+          "threshold": 0.3,
+          "tp": 505,
+          "fp": 214,
+          "fn": 143,
+          "precision": 0.7023643949930459,
+          "recall": 0.779320987654321,
+          "f1": 0.7388441843452818
+        },
+        {
+          "threshold": 0.4,
+          "tp": 485,
+          "fp": 153,
+          "fn": 163,
+          "precision": 0.7601880877742947,
+          "recall": 0.7484567901234568,
+          "f1": 0.7542768273716952
+        },
+        {
+          "threshold": 0.5,
+          "tp": 460,
+          "fp": 102,
+          "fn": 188,
+          "precision": 0.8185053380782918,
+          "recall": 0.7098765432098766,
+          "f1": 0.7603305785123968
+        },
+        {
+          "threshold": 0.6,
+          "tp": 440,
+          "fp": 80,
+          "fn": 208,
+          "precision": 0.8461538461538461,
+          "recall": 0.6790123456790124,
+          "f1": 0.7534246575342466
+        },
+        {
+          "threshold": 0.7,
+          "tp": 424,
+          "fp": 62,
+          "fn": 224,
+          "precision": 0.8724279835390947,
+          "recall": 0.654320987654321,
+          "f1": 0.7477954144620811
+        }
+      ]
+    },
+    "shelf": {
+      "selected_checkpoint": "weights/shelf_selected.pth",
+      "selected_epoch": null,
+      "arch": "per_slot_median_l1",
+      "selection_metric": "development empty-class F1 minus 0.25 times the occlusion false-alarm rate; ties keep the larger margin whose full recall is still the best",
+      "seconds": 5.510815564543009,
+      "dynamic_staff_used": false,
+      "margin": 6.0,
+      "dev": {
+        "rank": 1.0,
+        "empty_f1": 1.0,
+        "empty_precision": 1.0,
+        "empty_recall": 1.0,
+        "full_recall": 1.0,
+        "false_empty": 0,
+        "missed_empty": 0,
+        "occlusion_false_alarms": 0,
+        "occlusion_false_alarm_rate": 0.0,
+        "by_category": {
+          "Milk": {
+            "full_recall": 1.0,
+            "empty_recall": 1.0,
+            "false_empty": 0
+          },
+          "Packaged Snacks": {
+            "full_recall": 1.0,
+            "empty_recall": 1.0,
+            "false_empty": 0
+          }
+        }
+      },
+      "margin_sweep": [
+        {
+          "margin": 0.0,
+          "rank": 1.0,
+          "empty_f1": 1.0,
+          "empty_precision": 1.0,
+          "empty_recall": 1.0,
+          "full_recall": 1.0,
+          "false_empty": 0,
+          "missed_empty": 0,
+          "occlusion_false_alarms": 0,
+          "occlusion_false_alarm_rate": 0.0,
+          "by_category": {
+            "Milk": {
+              "full_recall": 1.0,
+              "empty_recall": 1.0,
+              "false_empty": 0
+            },
+            "Packaged Snacks": {
+              "full_recall": 1.0,
+              "empty_recall": 1.0,
+              "false_empty": 0
+            }
+          }
+        },
+        {
+          "margin": 1.0,
+          "rank": 1.0,
+          "empty_f1": 1.0,
+          "empty_precision": 1.0,
+          "empty_recall": 1.0,
+          "full_recall": 1.0,
+          "false_empty": 0,
+          "missed_empty": 0,
+          "occlusion_false_alarms": 0,
+          "occlusion_false_alarm_rate": 0.0,
+          "by_category": {
+            "Milk": {
+              "full_recall": 1.0,
+              "empty_recall": 1.0,
+              "false_empty": 0
+            },
+            "Packaged Snacks": {
+              "full_recall": 1.0,
+              "empty_recall": 1.0,
+              "false_empty": 0
+            }
+          }
+        },
+        {
+          "margin": 2.0,
+          "rank": 1.0,
+          "empty_f1": 1.0,
+          "empty_precision": 1.0,
+          "empty_recall": 1.0,
+          "full_recall": 1.0,
+          "false_empty": 0,
+          "missed_empty": 0,
+          "occlusion_false_alarms": 0,
+          "occlusion_false_alarm_rate": 0.0,
+          "by_category": {
+            "Milk": {
+              "full_recall": 1.0,
+              "empty_recall": 1.0,
+              "false_empty": 0
+            },
+            "Packaged Snacks": {
+              "full_recall": 1.0,
+              "empty_recall": 1.0,
+              "false_empty": 0
+            }
+          }
+        },
+        {
+          "margin": 4.0,
+          "rank": 1.0,
+          "empty_f1": 1.0,
+          "empty_precision": 1.0,
+          "empty_recall": 1.0,
+          "full_recall": 1.0,
+          "false_empty": 0,
+          "missed_empty": 0,
+          "occlusion_false_alarms": 0,
+          "occlusion_false_alarm_rate": 0.0,
+          "by_category": {
+            "Milk": {
+              "full_recall": 1.0,
+              "empty_recall": 1.0,
+              "false_empty": 0
+            },
+            "Packaged Snacks": {
+              "full_recall": 1.0,
+              "empty_recall": 1.0,
+              "false_empty": 0
+            }
+          }
+        },
+        {
+          "margin": 6.0,
+          "rank": 1.0,
+          "empty_f1": 1.0,
+          "empty_precision": 1.0,
+          "empty_recall": 1.0,
+          "full_recall": 1.0,
+          "false_empty": 0,
+          "missed_empty": 0,
+          "occlusion_false_alarms": 0,
+          "occlusion_false_alarm_rate": 0.0,
+          "by_category": {
+            "Milk": {
+              "full_recall": 1.0,
+              "empty_recall": 1.0,
+              "false_empty": 0
+            },
+            "Packaged Snacks": {
+              "full_recall": 1.0,
+              "empty_recall": 1.0,
+              "false_empty": 0
+            }
+          }
+        },
+        {
+          "margin": 8.0,
+          "rank": 1.0,
+          "empty_f1": 1.0,
+          "empty_precision": 1.0,
+          "empty_recall": 1.0,
+          "full_recall": 0.9984059511158342,
+          "false_empty": 0,
+          "missed_empty": 0,
+          "occlusion_false_alarms": 0,
+          "occlusion_false_alarm_rate": 0.0,
+          "by_category": {
+            "Milk": {
+              "full_recall": 0.9967672413793104,
+              "empty_recall": 1.0,
+              "false_empty": 0
+            },
+            "Packaged Snacks": {
+              "full_recall": 1.0,
+              "empty_recall": 1.0,
+              "false_empty": 0
+            }
+          }
+        },
+        {
+          "margin": 12.0,
+          "rank": 0.9714285714285714,
+          "empty_f1": 0.9714285714285714,
+          "empty_precision": 1.0,
+          "empty_recall": 0.9444444444444444,
+          "full_recall": 0.7986184909670563,
+          "false_empty": 0,
+          "missed_empty": 4,
+          "occlusion_false_alarms": 0,
+          "occlusion_false_alarm_rate": 0.0,
+          "by_category": {
+            "Milk": {
+              "full_recall": 0.802801724137931,
+              "empty_recall": 1.0,
+              "false_empty": 0
+            },
+            "Packaged Snacks": {
+              "full_recall": 0.7945492662473794,
+              "empty_recall": 0.9,
+              "false_empty": 0
+            }
+          }
+        }
+      ],
+      "full_sources": {
+        "SM_MilkPacket01_19": "visible",
+        "SM_MilkPacket01_13": "visible",
+        "SM_MilkPacket01_7": "visible",
+        "SM_MilkPacket01_1": "visible",
+        "SM_MilkPacket02_79": "visible",
+        "SM_MilkPacket02_73": "visible",
+        "SM_MilkPacket02_67": "visible",
+        "SM_MilkPacket02_61": "visible",
+        "SM_Packet2_3_Chips_1": "active_partial_fallback",
+        "SM_Packet2_3_Chips_6": "visible",
+        "SM_Packet2_3_Chips_11": "visible",
+        "SM_Packet2_3_Chips_16": "visible",
+        "SM_Packet2_3_Chips_21": "visible",
+        "SM_Packet2_3_Chips_26": "visible",
+        "SM_Packet2_3_Chips_31": "visible",
+        "SM_Packet2_3_Chips_36": "visible",
+        "SM_Packet2_3_Chips_41": "visible",
+        "SM_Packet2_3_Chips_46": "visible"
+      },
+      "previous_resnet": "weights/shelf_before_gap_fix/shelf_selected.pth",
+      "reason": "The ResNet full-class cap was filled by milk crops, so stocked chip bags were not training examples. Per-slot medians separate stocked and empty pictures on the development tail with no false empty calls."
+    }
+  },
+  "output_schema": {
+    "file": "JSONL, one object per camera frame",
+    "fields": [
+      "source_folder",
+      "camera_id",
+      "frame_index",
+      "timestamp_s",
+      "detections[{track_id,class,bbox,score,tracked}]",
+      "shelf_slots[{item_id,shelf_id,category,state,score,reason}] or null",
+      "queue[{counter_01,counter_02,total,alert}] or null",
+      "staff_count",
+      "staff02[{observable,dispatched}] or null",
+      "crossings[{kind,track_id}]"
+    ]
+  },
+  "code": [
+    {
+      "path": "model_artifacts/track_k_v2_001/code/apply_rule_fix.py",
+      "bytes": 11553,
+      "sha256": "02950b3baf1267838e04174b42aaad38509fe99895083279dd318d1a1d70b898"
+    },
+    {
+      "path": "model_artifacts/track_k_v2_001/code/calibrate.py",
+      "bytes": 16806,
+      "sha256": "68c950b0446d3eb8b6307ebde0caf12588b24a69cd37a87c37c60b46c8b7b4cb"
+    },
+    {
+      "path": "model_artifacts/track_k_v2_001/code/common.py",
+      "bytes": 11528,
+      "sha256": "a40ccc5a2e4ad0fefe925c1b4f2f1a77e01324765436ea35b19e2018156abb1c"
+    },
+    {
+      "path": "model_artifacts/track_k_v2_001/code/finalize.py",
+      "bytes": 29161,
+      "sha256": "d61cedf4fc6204ac594a8ed4ab58426e483dcfa27c1b64dfcfad94465acc17ce"
+    },
+    {
+      "path": "model_artifacts/track_k_v2_001/code/infer_scenario.py",
+      "bytes": 29879,
+      "sha256": "eb9a5b20b0c563c1cf5e4ea2b6804c6277aa926d5b44cd6a15cdd6f037497dea"
+    },
+    {
+      "path": "model_artifacts/track_k_v2_001/code/refresh_shelf_slots.py",
+      "bytes": 3376,
+      "sha256": "c4458768c51191fb5c0c8de78dfa9a43c56847d317909d895bc78fdeff352a8e"
+    },
+    {
+      "path": "model_artifacts/track_k_v2_001/code/run_pipeline.py",
+      "bytes": 6107,
+      "sha256": "adc23874b6987f4b466e2fe596f3b7d9aaf36396183386a409276f813d98bae8"
+    },
+    {
+      "path": "model_artifacts/track_k_v2_001/code/score.py",
+      "bytes": 25789,
+      "sha256": "bcca744fb39054273b24c9acee22514363b1d05b83652894ca75e2198e0332bb"
+    },
+    {
+      "path": "model_artifacts/track_k_v2_001/code/shelf_prototype.py",
+      "bytes": 15118,
+      "sha256": "4612cddcbda4bfbde95916adcd1a0283580173ff8299dbd3c58ebc05979eb743"
+    },
+    {
+      "path": "model_artifacts/track_k_v2_001/code/telemetry_adapter.py",
+      "bytes": 11385,
+      "sha256": "f93086bdd230fd4ea6fa92ea329d9a17a1503b29fdad54d1ef9c70e7079814c2"
+    },
+    {
+      "path": "model_artifacts/track_k_v2_001/code/train_person.py",
+      "bytes": 15324,
+      "sha256": "e84cc37a7047d8e6c6f2cf333324e0b832f896c68fce29c93ac87d9a941e1993"
+    },
+    {
+      "path": "model_artifacts/track_k_v2_001/code/train_shelf.py",
+      "bytes": 16109,
+      "sha256": "3abfc31caa5bfc58a8c02cbb0d959a1d8153bbbd858650d3a932bb5c01e5649c"
+    }
+  ],
+  "dependency_versions": {
+    "python": "3.10.12",
+    "torch": "2.11.0+cu128",
+    "torchvision": "0.26.0+cu128",
+    "opencv": "5.0.0",
+    "numpy": "2.2.6",
+    "cuda": "12.8",
+    "gpu": "NVIDIA GeForce RTX 3090"
+  },
+  "inference_command": "python -u model_artifacts/track_k_v2_001/code/infer_scenario.py --scenario-dir NEW_FIVE_CAMERA_FOLDER --calibration model_artifacts/track_k_v2_001/calibration/calibration.json --person-weights model_artifacts/track_k_v2_001/weights/person_selected.pth --shelf-weights model_artifacts/track_k_v2_001/weights/shelf_selected.pth --output predictions.jsonl",
+  "limitations": [
+    "Not certified for the future combined final test. dynamic_staff uses the same cast and the same store.",
+    "Baseline metrics are partly in-sample.",
+    "Heatmap, live floor occupancy, and cross-camera identity are unavailable.",
+    "World exits that the entrance camera did not see are not scored as model misses.",
+    "Slot ROIs and the staff home are frozen from this store and these camera poses.",
+    "Named shopper waits are unavailable because tracks are not simulator ids.",
+    "An entrance count is a tracked crossing of the door line, or a shopper who first appears as feet cut off by the bottom of the entrance frame and then grows into a full body. A thin strip that never grows is not an entry.",
+    "The shelf head compares each facing crop with that slot's own stocked and empty pictures from the training clips. The margin was chosen on the development tail. dynamic_staff was scored once after that choice. The earlier ResNet filled its full-class cap with milk and never saw a stocked chip bag.",
+    "Checkout polygons still contain shoppers who are not in the queue. dynamic_staff four-person alert precision stays low. Queue dwell was frozen from baseline and was not retuned on dynamic_staff.",
+    "Dashboard telemetry was written and not posted."
+  ],
+  "ready_for_future_combined_final_test": false
+}

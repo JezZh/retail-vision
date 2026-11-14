@@ -1,0 +1,570 @@
+{
+  "format": "track_k_v2_calibration",
+  "fit_fraction": 0.8,
+  "image_width": 1280,
+  "image_height": 720,
+  "projection": "row_vector_world_times_inverse_camera_matrix_y_flipped",
+  "projection_self_check": {
+    "world_cm": [
+      411.65,
+      -71.16,
+      1.8
+    ],
+    "pixel": [
+      672.0302740087919,
+      723.0032542658735
+    ],
+    "inside_box": [
+      611,
+      537,
+      764,
+      719
+    ]
+  },
+  "held_out_not_used": "dynamic_staff",
+  "door": {
+    "available": true,
+    "camera_id": "CCTV_Entrance_Aisle",
+    "a": [
+      920.0085444922181,
+      1671.0363617809298
+    ],
+    "b": [
+      445.4550597949026,
+      596.9110945904762
+    ],
+    "outside_sign": -1,
+    "inside_check_projected": [
+      767.4508298457565,
+      697.7052430006963
+    ],
+    "max_distance_px": 130.0,
+    "sign_source": "projected_outside_point",
+    "training_entry_checks": 5,
+    "training_entry_agree": 3,
+    "training_entry_disagree": 0,
+    "reason": null,
+    "distance_reason": "130 px is above the training entrance crossings whose closest foot was 105 px and below the two shoppers who appear 356 px away from the door line.",
+    "outside_frames": 2,
+    "entry_gap_frames": 2,
+    "count_reason": "Two tracked frames outside the line, then inside on the same track or on a broken track within 12 frames and 140 px. A second entry within 2 frames is the same step. A shopper whose first box is feet cut off at the bottom of the entrance frame, no taller than 100 px, and who grows 80 px while moving up within 60 frames, is also an entry. That shape was measured on every baseline entrance track. A track the door line already counted is not counted again.",
+    "clipped_bottom_px": 710.0,
+    "clipped_max_height_px": 100.0,
+    "clipped_grow_px": 80.0,
+    "clipped_window_frames": 60
+  },
+  "queues": {
+    "counter_01": {
+      "camera_id": "CCTV_Checkout_Shelves",
+      "polygon": [
+        [
+          409.0880238890238,
+          622.9425005152572
+        ],
+        [
+          415.99361943547916,
+          604.6400126812166
+        ],
+        [
+          610.4304697417613,
+          408.5832286208527
+        ],
+        [
+          612.7115716274079,
+          407.78636271670035
+        ],
+        [
+          622.8864559236598,
+          404.691165137578
+        ],
+        [
+          623.4772928314827,
+          404.7650617218776
+        ],
+        [
+          624.4428077414921,
+          416.04341530099924
+        ],
+        [
+          620.4377826208862,
+          452.323459652751
+        ],
+        [
+          586.5835474187567,
+          532.667868440609
+        ],
+        [
+          531.3179359600256,
+          577.7070755943016
+        ],
+        [
+          477.9166626433916,
+          600.9998584419376
+        ],
+        [
+          418.9562621841241,
+          623.8774366463127
+        ]
+      ],
+      "method": "training_queue_feet_split_by_register",
+      "service_anchor_px": [
+        562.5336603251325,
+        529.4518957908156
+      ],
+      "training_feet": 472,
+      "training_feet_coverage": 1.0,
+      "available": true
+    },
+    "counter_02": {
+      "camera_id": "CCTV_Checkout_Shelves",
+      "polygon": [
+        [
+          585.05,
+          373.05
+        ],
+        [
+          802.45,
+          276.38
+        ],
+        [
+          1035.38,
+          396.88
+        ],
+        [
+          808.3,
+          585.77
+        ]
+      ],
+      "method": "projected_lane",
+      "service_anchor_px": [
+        773.2520492565037,
+        406.4206942117031
+      ],
+      "training_feet": 635,
+      "training_feet_coverage": 0.8598425196850393,
+      "available": true
+    }
+  },
+  "staff": {
+    "available": true,
+    "camera_id": "CCTV_Checkout_Shelves",
+    "cashier_anchor_px": [
+      562.5336603251325,
+      529.4518957908156
+    ],
+    "cashier_radius_px": 464.1676019598827,
+    "home_px": [
+      1242.5,
+      322.0
+    ],
+    "dispatch_distance_px": 113.415,
+    "other_median_height_px": 114.5,
+    "cashier_median_height_px": 115.0,
+    "rule": "A non-cashier staff track on the checkout camera is dispatched when its foot stays farther than 113.4 px from the frozen training home for 4 frames. The limit is the farthest baseline predicted idle foot plus 12 px. Staff are excluded from shopper and queue counts.",
+    "dispatch_point": "foot",
+    "dispatch_frames": 4
+  },
+  "slots": [
+    {
+      "item_id": "SM_MilkPacket01_19",
+      "shelf_id": "ShelfBox7",
+      "category": "Milk",
+      "facing_camera": "CCTV_Entrance_Aisle",
+      "roi": [
+        728.71,
+        180.36,
+        752.95,
+        225.02
+      ],
+      "roi_source_frames": 765,
+      "available": true
+    },
+    {
+      "item_id": "SM_MilkPacket01_13",
+      "shelf_id": "ShelfBox7",
+      "category": "Milk",
+      "facing_camera": "CCTV_Entrance_Aisle",
+      "roi": [
+        717.17,
+        175.37,
+        740.29,
+        219.25
+      ],
+      "roi_source_frames": 765,
+      "available": true
+    },
+    {
+      "item_id": "SM_MilkPacket01_7",
+      "shelf_id": "ShelfBox7",
+      "category": "Milk",
+      "facing_camera": "CCTV_Entrance_Aisle",
+      "roi": [
+        706.07,
+        170.58,
+        728.15,
+        213.72
+      ],
+      "roi_source_frames": 765,
+      "available": true
+    },
+    {
+      "item_id": "SM_MilkPacket01_1",
+      "shelf_id": "ShelfBox7",
+      "category": "Milk",
+      "facing_camera": "CCTV_Entrance_Aisle",
+      "roi": [
+        695.41,
+        165.98,
+        716.5,
+        208.4
+      ],
+      "roi_source_frames": 765,
+      "available": true
+    },
+    {
+      "item_id": "SM_MilkPacket02_79",
+      "shelf_id": "ShelfBox7",
+      "category": "Milk",
+      "facing_camera": "CCTV_Entrance_Aisle",
+      "roi": [
+        728.8,
+        232.54,
+        751.81,
+        273.93
+      ],
+      "roi_source_frames": 765,
+      "available": true
+    },
+    {
+      "item_id": "SM_MilkPacket02_73",
+      "shelf_id": "ShelfBox7",
+      "category": "Milk",
+      "facing_camera": "CCTV_Entrance_Aisle",
+      "roi": [
+        717.84,
+        226.78,
+        739.85,
+        267.51
+      ],
+      "roi_source_frames": 765,
+      "available": true
+    },
+    {
+      "item_id": "SM_MilkPacket02_67",
+      "shelf_id": "ShelfBox7",
+      "category": "Milk",
+      "facing_camera": "CCTV_Entrance_Aisle",
+      "roi": [
+        707.29,
+        221.24,
+        728.37,
+        261.34
+      ],
+      "roi_source_frames": 765,
+      "available": true
+    },
+    {
+      "item_id": "SM_MilkPacket02_61",
+      "shelf_id": "ShelfBox7",
+      "category": "Milk",
+      "facing_camera": "CCTV_Entrance_Aisle",
+      "roi": [
+        697.14,
+        215.92,
+        717.32,
+        255.39
+      ],
+      "roi_source_frames": 765,
+      "available": true
+    },
+    {
+      "item_id": "SM_Packet2_3_Chips_1",
+      "shelf_id": "ShelfBox6",
+      "category": "Packaged Snacks",
+      "facing_camera": "CCTV_Back_Aisle_Left",
+      "roi": [
+        832.46,
+        284.35,
+        877.16,
+        344.81
+      ],
+      "roi_source_frames": 765,
+      "available": true
+    },
+    {
+      "item_id": "SM_Packet2_3_Chips_6",
+      "shelf_id": "ShelfBox6",
+      "category": "Packaged Snacks",
+      "facing_camera": "CCTV_Back_Aisle_Left",
+      "roi": [
+        850.21,
+        281.64,
+        896.22,
+        341.55
+      ],
+      "roi_source_frames": 765,
+      "available": true
+    },
+    {
+      "item_id": "SM_Packet2_3_Chips_11",
+      "shelf_id": "ShelfBox6",
+      "category": "Packaged Snacks",
+      "facing_camera": "CCTV_Back_Aisle_Left",
+      "roi": [
+        867.58,
+        279.0,
+        914.82,
+        338.35
+      ],
+      "roi_source_frames": 765,
+      "available": true
+    },
+    {
+      "item_id": "SM_Packet2_3_Chips_16",
+      "shelf_id": "ShelfBox6",
+      "category": "Packaged Snacks",
+      "facing_camera": "CCTV_Back_Aisle_Left",
+      "roi": [
+        884.59,
+        276.41,
+        933.0,
+        335.22
+      ],
+      "roi_source_frames": 765,
+      "available": true
+    },
+    {
+      "item_id": "SM_Packet2_3_Chips_21",
+      "shelf_id": "ShelfBox6",
+      "category": "Packaged Snacks",
+      "facing_camera": "CCTV_Back_Aisle_Left",
+      "roi": [
+        901.24,
+        273.88,
+        950.75,
+        332.16
+      ],
+      "roi_source_frames": 765,
+      "available": true
+    },
+    {
+      "item_id": "SM_Packet2_3_Chips_26",
+      "shelf_id": "ShelfBox6",
+      "category": "Packaged Snacks",
+      "facing_camera": "CCTV_Back_Aisle_Left",
+      "roi": [
+        875.4,
+        385.49,
+        914.03,
+        430.92
+      ],
+      "roi_source_frames": 765,
+      "available": true
+    },
+    {
+      "item_id": "SM_Packet2_3_Chips_31",
+      "shelf_id": "ShelfBox6",
+      "category": "Packaged Snacks",
+      "facing_camera": "CCTV_Back_Aisle_Left",
+      "roi": [
+        889.15,
+        382.45,
+        928.54,
+        427.58
+      ],
+      "roi_source_frames": 765,
+      "available": true
+    },
+    {
+      "item_id": "SM_Packet2_3_Chips_36",
+      "shelf_id": "ShelfBox6",
+      "category": "Packaged Snacks",
+      "facing_camera": "CCTV_Back_Aisle_Left",
+      "roi": [
+        902.68,
+        379.46,
+        942.78,
+        424.29
+      ],
+      "roi_source_frames": 765,
+      "available": true
+    },
+    {
+      "item_id": "SM_Packet2_3_Chips_41",
+      "shelf_id": "ShelfBox6",
+      "category": "Packaged Snacks",
+      "facing_camera": "CCTV_Back_Aisle_Left",
+      "roi": [
+        915.97,
+        376.53,
+        956.77,
+        421.07
+      ],
+      "roi_source_frames": 765,
+      "available": true
+    },
+    {
+      "item_id": "SM_Packet2_3_Chips_46",
+      "shelf_id": "ShelfBox6",
+      "category": "Packaged Snacks",
+      "facing_camera": "CCTV_Back_Aisle_Left",
+      "roi": [
+        929.04,
+        373.65,
+        970.5,
+        417.9
+      ],
+      "roi_source_frames": 765,
+      "available": true
+    }
+  ],
+  "cameras": {
+    "CCTV_Checkout_Shelves": {
+      "focal_length_mm": 16.0,
+      "horizontal_aperture_mm": 36.0,
+      "vertical_aperture_mm": 20.25,
+      "eye_cm": [
+        140.0,
+        -230.04,
+        391.86
+      ],
+      "world_matrix_row_major": [
+        -0.595466,
+        -0.803381,
+        0.0,
+        0.0,
+        0.494611,
+        -0.366605,
+        0.788011,
+        0.0,
+        -0.633073,
+        0.469233,
+        0.615661,
+        0.0,
+        140.0,
+        -230.035286,
+        391.861816,
+        1.0
+      ]
+    },
+    "CCTV_Entrance_Aisle": {
+      "focal_length_mm": 14.0,
+      "horizontal_aperture_mm": 36.0,
+      "vertical_aperture_mm": 20.25,
+      "eye_cm": [
+        360.0,
+        -12.0,
+        312.0
+      ],
+      "world_matrix_row_major": [
+        -0.597149,
+        -0.80213,
+        0.0,
+        0.0,
+        0.5156,
+        -0.38384,
+        0.766044,
+        0.0,
+        -0.614468,
+        0.457443,
+        0.642788,
+        0.0,
+        360.000045,
+        -11.99676,
+        312.0,
+        1.0
+      ]
+    },
+    "CCTV_Entrance_Aisle_End": {
+      "focal_length_mm": 8.0,
+      "horizontal_aperture_mm": 20.954999923706055,
+      "vertical_aperture_mm": 15.290800094604492,
+      "eye_cm": [
+        1140.0,
+        -18.0,
+        312.0
+      ],
+      "world_matrix_row_major": [
+        -0.998993,
+        -0.044865,
+        0.0,
+        0.0,
+        0.033348,
+        -0.742559,
+        0.66895,
+        0.0,
+        -0.030012,
+        0.668276,
+        0.743307,
+        0.0,
+        1140.0,
+        -18.0,
+        312.0,
+        1.0
+      ]
+    },
+    "CCTV_Back_Aisle": {
+      "focal_length_mm": 16.0,
+      "horizontal_aperture_mm": 36.0,
+      "vertical_aperture_mm": 20.25,
+      "eye_cm": [
+        1120.0,
+        -1155.0,
+        275.0
+      ],
+      "world_matrix_row_major": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.587785,
+        0.809017,
+        0.0,
+        0.0,
+        -0.809017,
+        0.587785,
+        0.0,
+        1120.0,
+        -1155.0,
+        275.0,
+        1.0
+      ]
+    },
+    "CCTV_Back_Aisle_Left": {
+      "focal_length_mm": 12.0,
+      "horizontal_aperture_mm": 36.0,
+      "vertical_aperture_mm": 20.25,
+      "eye_cm": [
+        430.0,
+        -1040.0,
+        275.0
+      ],
+      "world_matrix_row_major": [
+        0.961262,
+        -0.275637,
+        0.0,
+        0.0,
+        0.162016,
+        0.565015,
+        0.809017,
+        0.0,
+        -0.222995,
+        -0.777677,
+        0.587785,
+        0.0,
+        430.0,
+        -1040.0,
+        275.0,
+        1.0
+      ]
+    }
+  },
+  "limitations": [
+    "Floor occupancy and the heatmap are unavailable. Feet are not lifted to a shared floor map, and identities are not merged across cameras.",
+    "Slot ROIs are the median training expected_region on the facing camera. They belong to this store and these camera poses.",
+    "dynamic_staff was not used to place the door, the queue polygons, the staff home, or the slot boxes."
+  ],
+  "queue_dwell_frames": 15,
+  "queue_dwell_reason": "Chosen on baseline queue labels only. The dwell with the lowest count error is frozen."
+}

@@ -1,0 +1,7 @@
+torch==2.11.0+cu128
+torchvision==0.26.0+cu128
+opencv-python==5.0.0
+numpy==2.2.6
+# Install these into the existing CUDA environment at the CUDA environment.
+# Do not replace that environment's CUDA torch build.
+# python 3.10.12

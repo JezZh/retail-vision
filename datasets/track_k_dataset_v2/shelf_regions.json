@@ -1,0 +1,63 @@
+{
+  "ShelfBox7": {
+    "shelf_id": "ShelfBox7",
+    "item_ids": [
+      "SM_MilkPacket01_19",
+      "SM_MilkPacket01_13",
+      "SM_MilkPacket01_7",
+      "SM_MilkPacket01_1",
+      "SM_MilkPacket02_79",
+      "SM_MilkPacket02_73",
+      "SM_MilkPacket02_67",
+      "SM_MilkPacket02_61"
+    ],
+    "item_type": [
+      "SM_MilkPacket01",
+      "SM_MilkPacket02"
+    ],
+    "category": "Milk",
+    "facing_camera": "CCTV_Entrance_Aisle",
+    "world_min_cm": [
+      570.29,
+      -264.64,
+      129.31
+    ],
+    "world_max_cm": [
+      620.42,
+      -257.75,
+      189.49
+    ],
+    "source": "intact_world_bounds_before_hide"
+  },
+  "ShelfBox6": {
+    "shelf_id": "ShelfBox6",
+    "item_ids": [
+      "SM_Packet2_3_Chips_1",
+      "SM_Packet2_3_Chips_6",
+      "SM_Packet2_3_Chips_11",
+      "SM_Packet2_3_Chips_16",
+      "SM_Packet2_3_Chips_21",
+      "SM_Packet2_3_Chips_26",
+      "SM_Packet2_3_Chips_31",
+      "SM_Packet2_3_Chips_36",
+      "SM_Packet2_3_Chips_41",
+      "SM_Packet2_3_Chips_46"
+    ],
+    "item_type": [
+      "SM_Packet2_3_Chips"
+    ],
+    "category": "Packaged Snacks",
+    "facing_camera": "CCTV_Back_Aisle_Left",
+    "world_min_cm": [
+      566.6,
+      -907.8,
+      94.01
+    ],
+    "world_max_cm": [
+      666.57,
+      -899.81,
+      189.55
+    ],
+    "source": "intact_world_bounds_before_hide"
+  }
+}

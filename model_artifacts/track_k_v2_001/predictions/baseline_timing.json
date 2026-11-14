@@ -1,0 +1,42 @@
+{
+  "source_folder": "datasets/track_k_dataset_v2/baseline",
+  "frames": 13500,
+  "gpu": "NVIDIA GeForce RTX 3090",
+  "gpu_peak_allocated_mb": 292.3,
+  "model_seconds": 181.826,
+  "model_fps": 74.247,
+  "end_to_end_seconds": 242.284,
+  "end_to_end_fps": 55.72,
+  "latency_ms_mean": 17.941,
+  "latency_ms_p50": 17.027,
+  "latency_ms_p95": 24.813,
+  "person_score_threshold": 0.5,
+  "shelf_min_probability": 0.0,
+  "score_floor_written": 0.05,
+  "queue_usability": {
+    "counter_01": true,
+    "counter_02": true,
+    "overlap": true,
+    "dwell_frames": 15
+  },
+  "rule_fix": {
+    "door_max_distance_px": 130.0,
+    "door_outside_frames": 2,
+    "door_entry_gap_frames": 2,
+    "clipped_bottom_px": 710.0,
+    "clipped_max_height_px": 100.0,
+    "clipped_grow_px": 80.0,
+    "clipped_window_frames": 60,
+    "queue_dwell_frames": 15,
+    "staff_dispatch_distance_px": 113.415,
+    "staff_dispatch_frames": 4,
+    "weights_unchanged": true
+  },
+  "shelf_refit": {
+    "arch": "per_slot_median_l1",
+    "margin": 6.0,
+    "weights": "weights/shelf_selected.pth",
+    "person_weights_unchanged": true,
+    "queue_and_door_unchanged": true
+  }
+}

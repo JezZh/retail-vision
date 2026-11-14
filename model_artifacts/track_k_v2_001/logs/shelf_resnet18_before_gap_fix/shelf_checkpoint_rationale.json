@@ -1,0 +1,75 @@
+{
+  "selected_checkpoint": "weights/shelf_best.pth",
+  "selected_epoch": 1,
+  "selection_metric": "dev empty-class F1 minus 0.25 times the occlusion false-alarm rate",
+  "seconds": 8.730818577110767,
+  "dynamic_staff_used": false,
+  "class_counts_fit": {
+    "full": 700,
+    "empty": 270,
+    "unknown": 700
+  },
+  "min_probability": 0.0,
+  "margin_sweep": [
+    {
+      "min_probability": 0.0,
+      "rank": 0.9987864077669902,
+      "empty_precision": 1.0,
+      "empty_recall": 1.0,
+      "empty_f1": 1.0,
+      "full_recall": 0.7771428571428571,
+      "unknown_recall": 0.9951456310679612,
+      "occlusion_false_alarm_rate": 0.0048543689320388345,
+      "known": 772,
+      "unknown": 206
+    },
+    {
+      "min_probability": 0.4,
+      "rank": 0.9987864077669902,
+      "empty_precision": 1.0,
+      "empty_recall": 1.0,
+      "empty_f1": 1.0,
+      "full_recall": 0.7771428571428571,
+      "unknown_recall": 0.9951456310679612,
+      "occlusion_false_alarm_rate": 0.0048543689320388345,
+      "known": 772,
+      "unknown": 206
+    },
+    {
+      "min_probability": 0.5,
+      "rank": 0.9987864077669902,
+      "empty_precision": 1.0,
+      "empty_recall": 1.0,
+      "empty_f1": 1.0,
+      "full_recall": 0.7771428571428571,
+      "unknown_recall": 0.9951456310679612,
+      "occlusion_false_alarm_rate": 0.0048543689320388345,
+      "known": 772,
+      "unknown": 206
+    },
+    {
+      "min_probability": 0.6,
+      "rank": 0.9987864077669902,
+      "empty_precision": 1.0,
+      "empty_recall": 1.0,
+      "empty_f1": 1.0,
+      "full_recall": 0.7771428571428571,
+      "unknown_recall": 0.9951456310679612,
+      "occlusion_false_alarm_rate": 0.0048543689320388345,
+      "known": 772,
+      "unknown": 206
+    },
+    {
+      "min_probability": 0.7,
+      "rank": 0.9917934007739833,
+      "empty_precision": 1.0,
+      "empty_recall": 0.9861111111111112,
+      "empty_f1": 0.993006993006993,
+      "full_recall": 0.7771428571428571,
+      "unknown_recall": 0.9951456310679612,
+      "occlusion_false_alarm_rate": 0.0048543689320388345,
+      "known": 772,
+      "unknown": 206
+    }
+  ]
+}

@@ -1,0 +1,8168 @@
+{
+  "seed": 17,
+  "fit_frames": [
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 0
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 30
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 60
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 90
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 120
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 150
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 180
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 210
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 240
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 270
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 300
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 330
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 360
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 390
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 420
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 450
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 480
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 510
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 540
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 570
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 600
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 630
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 660
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 690
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 720
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 750
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 780
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 810
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 840
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 870
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 900
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 930
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 960
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 990
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 1020
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 1050
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 1080
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 1110
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 1140
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 1170
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 1200
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 1230
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 1260
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 1290
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 1320
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 1350
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 1380
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 1410
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 1440
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 1470
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 1500
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 1530
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 1560
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 1590
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 1620
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 1650
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 1680
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 1710
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 1740
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 1770
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 1800
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 1830
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 1860
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 1890
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 1920
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 1950
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 1980
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 2010
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 2040
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 2070
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 2100
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 2130
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 0
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 30
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 60
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 90
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 120
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 150
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 180
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 210
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 240
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 270
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 300
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 330
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 360
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 390
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 420
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 450
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 480
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 510
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 540
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 570
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 600
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 630
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 660
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 690
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 720
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 750
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 780
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 810
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 840
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 870
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 900
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 930
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 960
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 990
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 1020
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 1050
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 1080
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 1110
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 1140
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 1170
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 1200
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 1230
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 1260
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 1290
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 1320
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 1350
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 1380
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 1410
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 1440
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 1470
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 1500
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 1530
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 1560
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 1590
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 1620
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 1650
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 1680
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 1710
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 1740
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 1770
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 1800
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 1830
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 1860
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 1890
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 1920
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 1950
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 1980
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 2010
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 2040
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 2070
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 2100
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 2130
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 0
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 30
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 60
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 90
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 120
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 150
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 180
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 210
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 240
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 270
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 300
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 330
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 360
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 390
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 420
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 450
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 480
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 510
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 540
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 570
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 600
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 630
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 660
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 690
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 720
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 750
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 780
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 810
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 840
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 870
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 900
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 930
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 960
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 990
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 1020
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 1050
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 1080
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 1110
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 1140
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 1170
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 1200
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 1230
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 1260
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 1290
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 1320
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 1350
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 1380
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 1410
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 1440
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 1470
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 1500
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 1530
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 1560
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 1590
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 1620
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 1650
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 1680
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 1710
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 1740
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 1770
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 1800
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 1830
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 1860
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 1890
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 1920
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 1950
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 1980
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 2010
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 2040
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 2070
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 2100
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 2130
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 0
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 5
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 10
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 15
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 20
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 25
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 30
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 35
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 40
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 45
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 50
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 55
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 60
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 65
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 70
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 75
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 80
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 85
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 90
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 95
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 100
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 105
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 110
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 115
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 120
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 125
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 130
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 135
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 140
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 145
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 150
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 155
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 160
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 165
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 170
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 175
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 180
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 185
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 190
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 195
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 200
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 205
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 210
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 215
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 220
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 225
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 230
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 235
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 240
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 245
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 250
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 255
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 260
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 265
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 270
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 275
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 280
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 285
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 290
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 295
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 300
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 305
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 310
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 315
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 320
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 325
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 330
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 335
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 340
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 345
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 350
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 355
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 360
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 365
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 370
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 375
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 380
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 385
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 390
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 395
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 400
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 405
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 410
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 415
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 420
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 425
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 430
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 435
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 440
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 445
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 450
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 480
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 510
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 540
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 570
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 600
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 630
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 660
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 690
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 720
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 750
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 780
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 810
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 840
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 870
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 900
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 930
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 960
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 990
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 1020
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 1050
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 1080
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 1110
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 1140
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 1170
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 1200
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 1230
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 1260
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 1290
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 1320
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 1350
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 1380
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 1410
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 1440
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 1470
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 1500
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 1530
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 1560
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 1590
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 1620
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 1650
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 1680
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 1710
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 1740
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 1770
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 1800
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 1830
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 1860
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 1890
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 1920
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 1950
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 1980
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 2010
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 2040
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 2070
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 2100
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 2130
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 0
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 30
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 60
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 90
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 120
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 150
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 180
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 210
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 240
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 270
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 300
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 330
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 360
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 390
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 420
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 450
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 480
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 510
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 540
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 570
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 600
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 630
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 660
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 690
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 720
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 750
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 780
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 810
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 840
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 870
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 900
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 930
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 960
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 990
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 1020
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 1050
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 1080
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 1110
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 1140
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 1170
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 1200
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 1230
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 1260
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 1290
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 1320
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 1350
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 1380
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 1410
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 1440
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 1470
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 1500
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 1530
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 1560
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 1590
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 1620
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 1650
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 1680
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 1710
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 1740
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 1770
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 1800
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 1830
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 1860
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 1890
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 1920
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 1950
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 1980
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 2010
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 2040
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 2070
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 2100
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 2130
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 0
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 5
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 10
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 15
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 20
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 25
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 30
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 35
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 40
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 45
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 50
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 55
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 60
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 65
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 70
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 75
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 80
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 85
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 90
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 95
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 100
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 105
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 110
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 115
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 0
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 5
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 10
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 15
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 20
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 25
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 30
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 35
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 40
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 45
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 50
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 55
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 60
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 65
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 70
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 75
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 80
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 85
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 90
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 95
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 100
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 105
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 110
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 115
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 0
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 5
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 10
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 15
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 20
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 25
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 30
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 35
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 40
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 45
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 50
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 55
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 60
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 65
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 70
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 75
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 80
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 85
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 90
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 95
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 100
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 105
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 110
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 115
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 0
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 5
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 10
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 15
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 20
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 25
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 30
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 35
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 40
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 45
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 50
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 55
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 60
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 65
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 70
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 75
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 80
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 85
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 90
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 95
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 100
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 105
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 110
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 115
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 0
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 5
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 10
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 15
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 20
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 25
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 30
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 35
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 40
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 45
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 50
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 55
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 60
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 65
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 70
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 75
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 80
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 85
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 90
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 95
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 100
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 105
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 110
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 115
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 0
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 10
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 20
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 30
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 40
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 50
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 60
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 70
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 80
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 90
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 100
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 110
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 120
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 130
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 140
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 150
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 160
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 170
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 180
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 190
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 200
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 210
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 220
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 230
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 240
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 250
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 260
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 270
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 280
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 290
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 300
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 310
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 320
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 330
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 340
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 350
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 360
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 370
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 380
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 390
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 400
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 410
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 420
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 430
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 440
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 450
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 460
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 470
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 480
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 490
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 500
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 510
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 520
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 530
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 540
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 550
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 560
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 570
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 0
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 10
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 20
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 30
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 40
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 50
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 60
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 70
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 80
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 90
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 100
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 110
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 120
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 130
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 140
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 150
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 160
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 170
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 180
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 190
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 200
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 210
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 220
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 230
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 240
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 250
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 260
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 270
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 280
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 290
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 300
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 310
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 320
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 330
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 340
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 350
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 360
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 370
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 380
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 390
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 400
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 410
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 420
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 430
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 440
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 450
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 460
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 470
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 480
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 490
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 500
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 510
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 520
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 530
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 540
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 550
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 560
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 570
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 0
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 10
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 20
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 30
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 40
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 50
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 60
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 70
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 80
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 90
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 100
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 110
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 120
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 130
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 140
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 150
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 160
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 170
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 180
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 190
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 200
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 210
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 220
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 230
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 240
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 250
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 260
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 270
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 280
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 290
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 300
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 310
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 320
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 330
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 340
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 350
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 360
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 370
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 380
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 390
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 400
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 410
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 420
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 430
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 440
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 450
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 460
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 470
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 480
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 490
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 500
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 510
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 520
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 530
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 540
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 550
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 560
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 570
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 0
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 5
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 10
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 15
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 20
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 25
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 30
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 35
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 40
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 45
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 50
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 55
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 60
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 65
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 70
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 75
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 80
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 85
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 90
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 95
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 100
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 105
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 110
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 115
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 120
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 125
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 130
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 135
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 140
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 145
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 150
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 155
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 160
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 165
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 170
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 175
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 180
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 185
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 190
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 195
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 200
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 205
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 210
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 215
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 220
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 225
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 230
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 235
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 240
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 245
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 250
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 255
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 260
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 265
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 270
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 275
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 280
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 285
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 290
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 295
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 300
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 305
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 310
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 315
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 320
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 325
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 330
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 335
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 340
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 345
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 350
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 355
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 360
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 365
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 370
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 375
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 380
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 385
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 390
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 395
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 400
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 405
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 410
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 415
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 420
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 425
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 430
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 435
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 440
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 445
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 450
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 460
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 470
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 480
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 490
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 500
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 510
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 520
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 530
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 540
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 550
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 560
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 570
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 0
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 10
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 20
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 30
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 40
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 50
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 60
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 70
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 80
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 90
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 100
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 110
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 120
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 130
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 140
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 150
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 160
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 170
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 180
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 190
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 200
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 210
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 220
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 230
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 240
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 250
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 260
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 270
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 280
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 290
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 300
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 310
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 320
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 330
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 340
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 350
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 360
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 370
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 380
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 390
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 400
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 410
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 420
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 430
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 440
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 450
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 460
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 470
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 480
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 490
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 500
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 510
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 520
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 530
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 540
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 550
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 560
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 570
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 0
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 12
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 24
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 36
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 48
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 60
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 72
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 84
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 96
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 108
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 120
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 132
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 144
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 156
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 168
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 180
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 192
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 204
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 216
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 228
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 240
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 252
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 264
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 276
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 288
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 300
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 312
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 324
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 336
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 348
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 360
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 372
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 384
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 396
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 408
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 420
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 432
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 444
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 456
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 468
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 480
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 492
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 504
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 516
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 528
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 540
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 552
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 564
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 576
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 588
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 600
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 612
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 624
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 636
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 648
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 660
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 672
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 684
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 696
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 708
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 720
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 732
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 744
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 756
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 768
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 780
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 792
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 804
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 816
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 828
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 840
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 852
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 0
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 12
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 24
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 36
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 48
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 60
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 72
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 84
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 96
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 108
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 120
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 132
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 144
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 156
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 168
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 180
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 192
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 204
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 216
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 228
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 240
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 252
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 264
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 276
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 288
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 300
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 312
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 324
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 336
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 348
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 360
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 372
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 384
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 396
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 408
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 420
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 432
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 444
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 456
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 468
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 480
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 492
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 504
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 516
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 528
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 540
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 552
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 564
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 576
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 588
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 600
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 612
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 624
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 636
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 648
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 660
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 672
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 684
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 696
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 708
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 720
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 732
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 744
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 756
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 768
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 780
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 792
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 804
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 816
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 828
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 840
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 852
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 0
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 12
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 24
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 36
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 48
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 60
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 72
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 84
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 96
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 108
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 120
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 132
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 144
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 156
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 168
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 180
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 192
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 204
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 216
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 228
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 240
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 252
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 264
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 276
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 288
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 300
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 312
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 324
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 336
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 348
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 360
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 372
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 384
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 396
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 408
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 420
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 432
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 444
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 456
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 468
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 480
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 492
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 504
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 516
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 528
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 540
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 552
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 564
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 576
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 588
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 600
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 612
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 624
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 636
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 648
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 660
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 672
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 684
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 696
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 708
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 720
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 732
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 744
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 756
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 768
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 780
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 792
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 804
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 816
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 828
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 840
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 852
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 0
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 5
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 10
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 12
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 15
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 20
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 24
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 25
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 30
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 35
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 36
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 40
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 45
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 48
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 50
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 55
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 60
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 65
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 70
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 72
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 75
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 80
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 84
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 85
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 90
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 95
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 96
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 100
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 105
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 108
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 110
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 115
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 120
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 125
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 130
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 132
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 135
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 140
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 144
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 145
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 150
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 155
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 156
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 160
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 165
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 168
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 170
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 175
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 180
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 185
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 190
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 192
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 195
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 200
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 204
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 205
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 210
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 215
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 216
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 220
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 225
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 228
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 230
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 235
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 240
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 245
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 250
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 252
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 255
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 260
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 264
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 265
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 270
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 275
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 276
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 280
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 285
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 288
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 290
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 295
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 300
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 305
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 310
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 312
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 315
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 320
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 324
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 325
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 330
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 335
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 336
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 340
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 345
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 348
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 350
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 355
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 360
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 365
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 370
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 372
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 375
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 380
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 384
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 385
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 390
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 395
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 396
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 400
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 405
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 408
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 410
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 415
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 420
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 425
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 430
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 432
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 435
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 440
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 444
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 445
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 456
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 468
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 480
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 492
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 504
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 516
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 528
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 540
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 552
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 564
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 576
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 588
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 600
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 612
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 624
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 636
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 648
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 660
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 672
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 684
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 696
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 708
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 720
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 732
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 744
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 756
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 768
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 780
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 792
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 804
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 816
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 828
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 840
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 852
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 0
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 12
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 24
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 36
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 48
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 60
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 72
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 84
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 96
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 108
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 120
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 132
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 144
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 156
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 168
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 180
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 192
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 204
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 216
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 228
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 240
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 252
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 264
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 276
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 288
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 300
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 312
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 324
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 336
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 348
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 360
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 372
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 384
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 396
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 408
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 420
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 432
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 444
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 456
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 468
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 480
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 492
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 504
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 516
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 528
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 540
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 552
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 564
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 576
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 588
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 600
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 612
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 624
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 636
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 648
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 660
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 672
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 684
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 696
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 708
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 720
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 732
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 744
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 756
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 768
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 780
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 792
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 804
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 816
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 828
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 840
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 852
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 0
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 4
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 8
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 12
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 16
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 20
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 24
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 28
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 32
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 36
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 40
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 44
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 48
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 52
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 56
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 60
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 64
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 68
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 72
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 76
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 80
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 84
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 88
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 92
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 0
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 4
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 8
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 12
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 16
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 20
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 24
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 28
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 32
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 36
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 40
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 44
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 48
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 52
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 56
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 60
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 64
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 68
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 72
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 76
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 80
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 84
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 88
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 92
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 0
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 4
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 8
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 12
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 16
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 20
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 24
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 28
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 32
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 36
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 40
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 44
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 48
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 52
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 56
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 60
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 64
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 68
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 72
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 76
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 80
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 84
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 88
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 92
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 0
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 4
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 5
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 8
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 10
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 12
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 15
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 16
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 20
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 24
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 25
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 28
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 30
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 32
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 35
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 36
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 40
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 44
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 45
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 48
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 50
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 52
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 55
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 56
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 60
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 64
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 65
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 68
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 70
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 72
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 75
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 76
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 80
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 84
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 85
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 88
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 90
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 92
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 95
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 0
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 4
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 8
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 12
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 16
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 20
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 24
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 28
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 32
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 36
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 40
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 44
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 48
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 52
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 56
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 60
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 64
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 68
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 72
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 76
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 80
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 84
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 88
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 92
+    }
+  ],
+  "dev_frames": [
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 2160
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 2190
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 2220
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 2250
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 2280
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 2310
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 2340
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 2370
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 2400
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 2430
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 2460
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 2490
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 2520
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 2550
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 2580
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 2610
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 2640
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 2670
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 2160
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 2190
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 2220
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 2250
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 2280
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 2310
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 2340
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 2370
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 2400
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 2430
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 2460
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 2490
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 2520
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 2550
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 2580
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 2610
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 2640
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 2670
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 2160
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 2190
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 2220
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 2250
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 2280
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 2310
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 2340
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 2370
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 2400
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 2430
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 2460
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 2490
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 2520
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 2550
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 2580
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 2610
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 2640
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 2670
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 2160
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 2190
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 2220
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 2250
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 2280
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 2310
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 2340
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 2370
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 2400
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 2430
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 2460
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 2490
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 2520
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 2550
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 2580
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 2610
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 2640
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 2670
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 2160
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 2190
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 2220
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 2250
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 2280
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 2310
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 2340
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 2370
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 2400
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 2430
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 2460
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 2490
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 2520
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 2550
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 2580
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 2610
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 2640
+    },
+    {
+      "scenario": "baseline",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 2670
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 120
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 120
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 120
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 120
+    },
+    {
+      "scenario": "train_gap",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 120
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 576
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 606
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 636
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 666
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 696
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 576
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 606
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 636
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 666
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 696
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 576
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 606
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 636
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 666
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 696
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 576
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 606
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 636
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 666
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 696
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 576
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 606
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 636
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 666
+    },
+    {
+      "scenario": "train_occlusion",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 696
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 864
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 894
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 924
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 954
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 984
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 1014
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 1044
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 1074
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 864
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 894
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 924
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 954
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 984
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 1014
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 1044
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 1074
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 864
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 894
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 924
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 954
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 984
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 1014
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 1044
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 1074
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 864
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 894
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 924
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 954
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 984
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 1014
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 1044
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 1074
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 864
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 894
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 924
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 954
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 984
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 1014
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 1044
+    },
+    {
+      "scenario": "train_queue",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 1074
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle",
+      "frame_index": 96
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Back_Aisle_Left",
+      "frame_index": 96
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Checkout_Shelves",
+      "frame_index": 96
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle",
+      "frame_index": 96
+    },
+    {
+      "scenario": "train_refilled",
+      "camera_id": "CCTV_Entrance_Aisle_End",
+      "frame_index": 96
+    }
+  ],
+  "note": "Dev frames are the last 20% of each training scenario. dynamic_staff is absent."
+}

@@ -1,0 +1,224 @@
+{
+  "selected_checkpoint": "weights/shelf_selected.pth",
+  "selected_epoch": null,
+  "arch": "per_slot_median_l1",
+  "selection_metric": "development empty-class F1 minus 0.25 times the occlusion false-alarm rate; ties keep the larger margin whose full recall is still the best",
+  "seconds": 5.510815564543009,
+  "dynamic_staff_used": false,
+  "margin": 6.0,
+  "dev": {
+    "rank": 1.0,
+    "empty_f1": 1.0,
+    "empty_precision": 1.0,
+    "empty_recall": 1.0,
+    "full_recall": 1.0,
+    "false_empty": 0,
+    "missed_empty": 0,
+    "occlusion_false_alarms": 0,
+    "occlusion_false_alarm_rate": 0.0,
+    "by_category": {
+      "Milk": {
+        "full_recall": 1.0,
+        "empty_recall": 1.0,
+        "false_empty": 0
+      },
+      "Packaged Snacks": {
+        "full_recall": 1.0,
+        "empty_recall": 1.0,
+        "false_empty": 0
+      }
+    }
+  },
+  "margin_sweep": [
+    {
+      "margin": 0.0,
+      "rank": 1.0,
+      "empty_f1": 1.0,
+      "empty_precision": 1.0,
+      "empty_recall": 1.0,
+      "full_recall": 1.0,
+      "false_empty": 0,
+      "missed_empty": 0,
+      "occlusion_false_alarms": 0,
+      "occlusion_false_alarm_rate": 0.0,
+      "by_category": {
+        "Milk": {
+          "full_recall": 1.0,
+          "empty_recall": 1.0,
+          "false_empty": 0
+        },
+        "Packaged Snacks": {
+          "full_recall": 1.0,
+          "empty_recall": 1.0,
+          "false_empty": 0
+        }
+      }
+    },
+    {
+      "margin": 1.0,
+      "rank": 1.0,
+      "empty_f1": 1.0,
+      "empty_precision": 1.0,
+      "empty_recall": 1.0,
+      "full_recall": 1.0,
+      "false_empty": 0,
+      "missed_empty": 0,
+      "occlusion_false_alarms": 0,
+      "occlusion_false_alarm_rate": 0.0,
+      "by_category": {
+        "Milk": {
+          "full_recall": 1.0,
+          "empty_recall": 1.0,
+          "false_empty": 0
+        },
+        "Packaged Snacks": {
+          "full_recall": 1.0,
+          "empty_recall": 1.0,
+          "false_empty": 0
+        }
+      }
+    },
+    {
+      "margin": 2.0,
+      "rank": 1.0,
+      "empty_f1": 1.0,
+      "empty_precision": 1.0,
+      "empty_recall": 1.0,
+      "full_recall": 1.0,
+      "false_empty": 0,
+      "missed_empty": 0,
+      "occlusion_false_alarms": 0,
+      "occlusion_false_alarm_rate": 0.0,
+      "by_category": {
+        "Milk": {
+          "full_recall": 1.0,
+          "empty_recall": 1.0,
+          "false_empty": 0
+        },
+        "Packaged Snacks": {
+          "full_recall": 1.0,
+          "empty_recall": 1.0,
+          "false_empty": 0
+        }
+      }
+    },
+    {
+      "margin": 4.0,
+      "rank": 1.0,
+      "empty_f1": 1.0,
+      "empty_precision": 1.0,
+      "empty_recall": 1.0,
+      "full_recall": 1.0,
+      "false_empty": 0,
+      "missed_empty": 0,
+      "occlusion_false_alarms": 0,
+      "occlusion_false_alarm_rate": 0.0,
+      "by_category": {
+        "Milk": {
+          "full_recall": 1.0,
+          "empty_recall": 1.0,
+          "false_empty": 0
+        },
+        "Packaged Snacks": {
+          "full_recall": 1.0,
+          "empty_recall": 1.0,
+          "false_empty": 0
+        }
+      }
+    },
+    {
+      "margin": 6.0,
+      "rank": 1.0,
+      "empty_f1": 1.0,
+      "empty_precision": 1.0,
+      "empty_recall": 1.0,
+      "full_recall": 1.0,
+      "false_empty": 0,
+      "missed_empty": 0,
+      "occlusion_false_alarms": 0,
+      "occlusion_false_alarm_rate": 0.0,
+      "by_category": {
+        "Milk": {
+          "full_recall": 1.0,
+          "empty_recall": 1.0,
+          "false_empty": 0
+        },
+        "Packaged Snacks": {
+          "full_recall": 1.0,
+          "empty_recall": 1.0,
+          "false_empty": 0
+        }
+      }
+    },
+    {
+      "margin": 8.0,
+      "rank": 1.0,
+      "empty_f1": 1.0,
+      "empty_precision": 1.0,
+      "empty_recall": 1.0,
+      "full_recall": 0.9984059511158342,
+      "false_empty": 0,
+      "missed_empty": 0,
+      "occlusion_false_alarms": 0,
+      "occlusion_false_alarm_rate": 0.0,
+      "by_category": {
+        "Milk": {
+          "full_recall": 0.9967672413793104,
+          "empty_recall": 1.0,
+          "false_empty": 0
+        },
+        "Packaged Snacks": {
+          "full_recall": 1.0,
+          "empty_recall": 1.0,
+          "false_empty": 0
+        }
+      }
+    },
+    {
+      "margin": 12.0,
+      "rank": 0.9714285714285714,
+      "empty_f1": 0.9714285714285714,
+      "empty_precision": 1.0,
+      "empty_recall": 0.9444444444444444,
+      "full_recall": 0.7986184909670563,
+      "false_empty": 0,
+      "missed_empty": 4,
+      "occlusion_false_alarms": 0,
+      "occlusion_false_alarm_rate": 0.0,
+      "by_category": {
+        "Milk": {
+          "full_recall": 0.802801724137931,
+          "empty_recall": 1.0,
+          "false_empty": 0
+        },
+        "Packaged Snacks": {
+          "full_recall": 0.7945492662473794,
+          "empty_recall": 0.9,
+          "false_empty": 0
+        }
+      }
+    }
+  ],
+  "full_sources": {
+    "SM_MilkPacket01_19": "visible",
+    "SM_MilkPacket01_13": "visible",
+    "SM_MilkPacket01_7": "visible",
+    "SM_MilkPacket01_1": "visible",
+    "SM_MilkPacket02_79": "visible",
+    "SM_MilkPacket02_73": "visible",
+    "SM_MilkPacket02_67": "visible",
+    "SM_MilkPacket02_61": "visible",
+    "SM_Packet2_3_Chips_1": "active_partial_fallback",
+    "SM_Packet2_3_Chips_6": "visible",
+    "SM_Packet2_3_Chips_11": "visible",
+    "SM_Packet2_3_Chips_16": "visible",
+    "SM_Packet2_3_Chips_21": "visible",
+    "SM_Packet2_3_Chips_26": "visible",
+    "SM_Packet2_3_Chips_31": "visible",
+    "SM_Packet2_3_Chips_36": "visible",
+    "SM_Packet2_3_Chips_41": "visible",
+    "SM_Packet2_3_Chips_46": "visible"
+  },
+  "previous_resnet": "weights/shelf_before_gap_fix/shelf_selected.pth",
+  "reason": "The ResNet full-class cap was filled by milk crops, so stocked chip bags were not training examples. Per-slot medians separate stocked and empty pictures on the development tail with no false empty calls."
+}

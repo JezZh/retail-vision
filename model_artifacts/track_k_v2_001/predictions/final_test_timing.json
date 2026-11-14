@@ -1,0 +1,22 @@
+{
+  "source_folder": "backend/data/inputs/2a9a0a57295e/final_test",
+  "frames": 18000,
+  "gpu": "NVIDIA GeForce RTX 3090",
+  "gpu_peak_allocated_mb": 195.6,
+  "model_seconds": 205.337,
+  "model_fps": 87.661,
+  "end_to_end_seconds": 319.797,
+  "end_to_end_fps": 56.286,
+  "latency_ms_mean": 17.762,
+  "latency_ms_p50": 16.914,
+  "latency_ms_p95": 24.735,
+  "person_score_threshold": 0.5,
+  "shelf_min_probability": 0.0,
+  "score_floor_written": 0.05,
+  "queue_usability": {
+    "counter_01": true,
+    "counter_02": true,
+    "overlap": true,
+    "dwell_frames": 15
+  }
+}
